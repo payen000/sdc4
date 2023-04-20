@@ -88,7 +88,7 @@ function initialize(){
   		})
 	}
 
-	for (let i = 0; i < navButtons.length - 1; i++) {
+	for (let i = 0; i < navButtons.length; i++) {
   		navButtons[i].addEventListener("click", function(event){
 	  			let obj = document.getElementById(this.getAttribute("pointer"))
 	  			window.scroll(0, findPos(obj) - 60);

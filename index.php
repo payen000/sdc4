@@ -12,15 +12,10 @@
         <div class="content" title="contenido">
             <div class="section-box" id="main-header" title="banner">
                 <div id="front-container">
-                    <div id="name">
-                        <!-- <h1 style="z-index:-1;position: absolute;font-size: 1px;">
-                            TERCER SIMPOSIO DE DIVULGACIÓN DE LA CIENCIA: DIVULGACIÓN EN EL MAR DE LA DESINFORMACIÓN. DEL 25 al 27 de octubre de 2023.
-                        </h1> -->
-                    </div>
-                    <div id="hands"></div>
+                    <div id="name"></div>
+                    <div id="banner"></div>
                     <div id="banner-button">
-                        <a id="event-button1" class="btn btn-danger" pointer="registro" role="button" href="/sdc3/programa.php" target="_blank">Ir al programa</a>
-                        <a id="event-button0" class="btn btn-danger disabled" pointer="registro" role="button">Registro</a>
+                        <a id="event-button0" class="btn btn-danger disabled" pointer="registro" role="button" href="#">Registro</a>
                     </div>
                 </div>
                 <div id="gradient">
@@ -28,40 +23,12 @@
                 </div>
             </div>
 
-
-        <div class="responsive">
+            <div class="responsive">
                 <section title="noticias" id="carousel" class="section-box carousel slide carousel-dark" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                        <!-- <button type="button" data-bs-target="#carousel" data-bs-slide-to="1" aria-label="Slide 2"></button> -->
-                        <!-- <button type="button" data-bs-target="#carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                        <button type="button" data-bs-target="#carousel" data-bs-slide-to="3" aria-label="Slide 4"></button> -->
                     </div>
                     <div class="carousel-inner">
-                        <!-- <div class="carousel-item active" data-bs-interval="10000">
-                            <div class="centered" id="extension">
-                                <h1 class="noticia-header">
-                                    AVISO A LOS PARTICIPANTES
-                                </h1>
-                                <h1 class="active-25 noticia">
-                                    A los participantes interesados en la publicación de su trabajo como memorias del Simposio favor de comunicarse a <br><br> fisica.matematicas@ibero.mx.
-                                </h1>
-                            </div>
-                        </div>
-                        <div class="carousel-item" data-bs-interval="8000">
-                            <div class="centered" id="extension">
-                                <h1 class="noticia-header">
-                                    AVISO
-                                </h1>
-                                <h1 class="active-25 noticia">
-                                    El plazo de recepción de trabajos ha finalizado. <br> La lista de trabajos aceptados se publicará <br> en esta página el 25 de octubre de 2021. <br><br> El registro sin participación permanecerá abierto hasta finalizar el evento.
-
-                                    <br><br>
-
-                                    Agradecemos a todas las personas su registro. 
-                                </h1>
-                            </div>
-                        </div> -->
                         <div class="carousel-item active" data-bs-interval="8000">
                             <div class="centered vertical-center" id="convocatoria">
                                 <p class="active-15">
@@ -83,19 +50,6 @@
                                 </p>
                             </div>
                         </div>
-                        <!-- <div class="carousel-item" data-bs-interval="8000">
-                            <img src="/sdc3/img/alfredo-sandoval.jpg" class="d-block w-100" alt="Alfredo Sandoval Villalbazo" id="alfredo">
-                            <div class="carousel-caption" id="alfredo-caption">
-                                <div class="active-25">
-                                    <p>
-                                        <span class="active-15"> 
-                                            En homenaje a <br>
-                                            Dr. Alfredo Sandoval Villalbazo (1967-2021)</span><br>
-                                        <span class="active-35"> Brillante investigador y asiduo divulgador de la ciencia</span>
-                                    </p>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
 
                     <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
@@ -290,9 +244,6 @@
                         </ul>
                     </div>
                 </section>
-
-                <!-- Invitados -->
-                <!-- Invitados-->
 
                 <section class="section-box" id="registro" title="registro">
                     <div class="header-background">

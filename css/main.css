@@ -7,25 +7,9 @@
     padding-top: 12px;
     font-weight: bold;
     z-index: 10;
-    position: relative;
     color: white;
     box-shadow: 0px 0px 10px #791715;
-    left: 750px;
-    position: absolute;
-}
-
-#event-button1 {
-    background-color: #b03434;
-    border-color: #791715;
-    height: 50px;
-    width: 165px;
-    padding-top: 12px;
-    font-weight: bold;
-    z-index: 10;
-    position: relative;
-    color: white;
-    box-shadow: 0px 0px 10px #791715;
-    left: 580px;
+    left: 660px;
     position: absolute;
 }
 
@@ -48,130 +32,12 @@
   pointer-events: none;
 }
 
-#programa-simplificado{
-  width: 100%;
-  min-width: 300px; 
-  margin-bottom: 20px;
-}
-
-.top-padded{
-  padding-top: 3px;
-}
-
-.day h5 {
-    font-size: 18px;
-}
-
-.day h5.mod {
-    font-size: 16px;
-}
-
-h5.mod {
-    padding-left: 57px;
-}
-
-.horarios{
-    overflow-x: auto;
-    overflow-y: hidden;
-    padding-left: 45px;
-}
-
-.horarios li {
-    list-style-type: none;
-    font-size: 12px;
-    margin-bottom: 10px;
-}
-
-.hora {
-    height: 50px;
-    display: block;
-    margin-bottom: -50px;
-}
-
-.sesion-oral {
-    left: 200px;
-    position: relative;
-}
-
 .nav-link.active-link {
     color: white;
 }
 
-.hidden{
-    display: none;
-}
-
-.card {
-    -webkit-box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
-            box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
-}
-
-.card-row {
-    padding: 1.5rem 1rem;
-}
-
-.card-body {
-    text-align: justify;
-    margin-bottom: 15px;
-}
-
-.row.card-bottom {
-    margin-bottom: 12px;
-}
-
-.photograph {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-}
-
 a.nav-link.active-link {
     text-decoration: none;
-}
-
-.day h4 {
-    padding-bottom: 10px;
-}
-
-.tabs-programa{
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-.tab-programa{
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    margin-right: 10px;
-    width: 27%;
-}
-
-.tab, .expositor{
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    width: 220px;
-}
-
-.tabs{
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-}
-
-.tabcontent{
-    margin-top: 20px;
-}
-
-.tab-content{
-    height: 0px;
-    overflow: hidden;
-    -webkit-transition: all 0.5s;
-    -o-transition: all 0.5s;
-    transition: all 0.5s;
 }
 
 .tablinks.nav-link.tab {
@@ -182,60 +48,12 @@ a.nav-link.active-link {
     background-color: #f5fbff;
 }
 
-.tabimage, .tabimage-programa {
-    border-radius: 50%;
-    width: 70px;
-    height: 70px;
-}
-
-.name-in-card {
-    font-size: 18px;
-}
-
-.name-in-tab-3{
-    font-size: 12px;
-    color: black;
-    width: 130px;
-    text-align: left;
-    padding-left: 10px;
-}
-
-.name-in-tab-2{
-    font-size: 12px;
-    color: black;
-    padding-top: 8px;
-    width: 130px;
-    text-align: left;
-    padding-left: 10px;
-}
-
-.role {
-    padding-left: 50px;
-    margin-top: 25px;
-    margin-bottom: -25px;
-    font-size: 16px;
-}
-
-.role hr {
-    margin: -28px 0px 30px 85px;
-    width: 80%;
-}
-
-
-h4.name-in-card {
-    font-size: 25px;
-}
-
 .margin-bottomed {
     margin-bottom: 40px;
 }
 
 .bold{
     font-weight: bold;
-}
-
-.activetab{
-    background-color: #ebf5fb !important;
 }
 
 /* formato de contenido */
@@ -263,13 +81,6 @@ hr{
 
 strong{
     font-size: 50px;
-}
-
-#alfredo-caption{
-    color: white;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding-left: 5px;
-    padding-right: 5px;
 }
 
 .active-25.noticia {
@@ -389,10 +200,6 @@ ul{
     display: list-item;
 }
 
-#zoom{
-    margin-top: 9px;
-}
-
 #convocatoria {
     font-size: 16px;
 }
@@ -400,12 +207,6 @@ ul{
 .section-box{
     font-size: 14px;
     padding-bottom: 30px;
-}
-
-.description {
-    font-size: 12px;
-    padding-left: 30px;
-    padding-right: 30px;
 }
 
 .section-header {
@@ -480,8 +281,7 @@ ul{
     position: relative;
     height: 630px;
     background-position: left;
-    background-image: url("/sdc3/img/space.jpg");
-    background-color: black;
+    background-color: #edecf4;
     color: black;
     background-size: cover;
     padding-bottom: 0;
@@ -500,10 +300,10 @@ ul{
 }
 
 #name {
-    top: 7.5rem;
+    top: -1.5rem;
     margin-left: 37rem;
-    height: 19rem;
-    width: 21rem;
+    height: 30rem;
+    width: 35rem;
     position: absolute;
     background-image: url("/sdc3/img/2x.png");
     background-size: contain;
@@ -512,10 +312,10 @@ ul{
     z-index: 2;
 }
 
-#hands{
+#banner{
     width: 100%;
     height: 100%;
-    background-image: url("/sdc3/img/hands.png");
+    background-image: url("/sdc3/img/banner.png");
     background-repeat: no-repeat;
     position: absolute;
     z-index: 1;
@@ -561,12 +361,6 @@ ul{
     left: 20%;
 }
 
-#alfredo{
-    -o-object-fit: cover;
-       object-fit: cover;
-    height: 400px;
-}
-
 .screenreader-text{
     display: none;
 }
@@ -589,66 +383,6 @@ ul{
     margin-right: auto;
 }
 
-.qrcode {
-    width: 256px;
-    height: 256px;
-}
-
-.mesa-header {
-    padding-left: 50px;
-    padding-top: 50px;
-}
-
-.description{
-    font-size: 12px;
-}
-
-.tab-content .description {
-    padding-left: 15px;
-    padding-right: 15px;
-    font-size: 12px;
-    text-align: justify;
-}
-
-.tab-content{
-    padding-bottom: 20px;
-}
-
-.tab .btn.btn-primary.card-button.row-button{
-    height: 40px;
-    width: 45px;
-}
-
-.row.card-row {
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
-.desk{
-    display: block;
-  }
-
-.mini{
-    display: none;
-}
-
-.mesa, .invitado {
-    margin-bottom: 15px;
-}
-
-.mesa{
-    min-height: 365px;
-}
-
-.name-in-tab-2, .name-in-tab-3 {
-    font-weight: normal;
-}
-
-.row.card-row {
-    margin-top: -10px;
-    margin-bottom: -10px;
-}
-
 .dark {
     background: #26509c !important;
 }
@@ -658,28 +392,22 @@ ul{
     padding-bottom: 30px;
 }
 
-.day {
-    margin-bottom: 50px;
-    margin-top: 30px;
+#footer > .row > .col-12 {
+  height: 150px;
 }
 
 .bi.bi-caret-right-square-fill {
     margin-top: -4px;
 }
 
-#herramientas-programa {
-    border-top: none;
-}
-
-#herramientas-programa #navbarDropdownMenuLink{
-    font-weight: 600;
-}
-
-#zoom-programa{
-    margin-left: -175px;
-}
-
 /* media queries */
+
+@media only screen and (max-width: 1400px){
+  #name {
+    top: -0.5rem;
+    width: 25rem;
+  }
+}
 
 @media only screen and (max-width: 1200px){
   .responsive{
@@ -690,60 +418,24 @@ ul{
 
 @media only screen and (max-width: 991px){
   #event-button0{
-    left: 595px;
+    left: 500px;
   }
-
-  #event-button1 {
-    left: 425px;
-}
 
   #front-container{
     width: 100%;
   }
-
-  .role{
-    padding-left: 40px;
-  }
-
-  .role hr {
-    width: 80%;
-  }
-
-  .desk{
-    display: none;
-  }
-
-  .mini{
-    display: block;
-  }
-
-  .tab {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    width: 100%;
-    -ms-flex-pack: distribute;
-        justify-content: space-around;
-  }
-
-
-  .name-in-card {
-    font-size: 16px;
-  }
-
 
   #name{
     margin-left: 27rem;
     top: 9rem;
     width: 20rem;
     height: 16rem;
-    background-color: rgba(0,0,0,0.33);
+    background-color: rgba(255,255,255,0.4);
   }
 
   #logos-top{
-    width: 350px;
+    width: 560px;
   }
-
 
   #convocatoria{
     font-size: 14px;
@@ -769,20 +461,10 @@ ul{
 
   #nav-tabContent {
     padding-top: 20px;
-}
-
-  #herramientas{
-    width: 100%;
-    background-color: #070707;
   }
 
   .nav-link {
     font-weight: 400;
-  }
-
-  #zoom{
-    width: 100%;
-    margin-top: -1px;
   }
 
   .header-background{
@@ -792,14 +474,6 @@ ul{
 
   .section-header{
     text-align: center;
-  }
-
-  .tab .btn.btn-primary.card-button.row-button.vertical-center.collapsed{
-    display: inline-block;
-  }
-
-  .tab .btn.btn-primary.card-button.row-button.vertical-center{
-    display: inline-block;
   }
 }
 
@@ -811,55 +485,20 @@ ul{
                 transform: translateY(-50%);
         position: relative;
     }
-
-    #zoom{
-        margin-left: -175px;
-    }
 }
 
 @media only screen and (max-width: 767px) {
   #event-button0{
-    left: 20%;
+    left: 36%;
   }
-
-  #event-button1{
-    left: 60%;
-  }
-  
-  .day h5.mod {
-    font-size: 14px;
-  }
-
-  .sesion-oral {
-    left: 120px;
-  }
-
-  .description{
-    font-size: 11px;
-  }
-
-  .role hr {
-    width: 70%;
-  }
-
-  .name-in-card {
-    font-size: 15px;
-  }
-
-  .name-in-tab-3, .name-in-tab-2{
-    padding-left: 3px;
-    font-size: 10px;
-  }
-
 
   .footer-data.footer-end.container.resonsive.centered.not-full-width {
     font-size: 12px;
   }
 
   #logos-top{
-    width: 275px;
+    width: 560px;
   }
-
 
   #front-container{
     width: 100%;
@@ -874,16 +513,12 @@ ul{
     margin-left: 0%;
     height: 60%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.33);
+    background-color: rgba(255, 255, 255, 0.6);
   }
 
   #iberologo{
     margin-bottom: -15px;
     margin-top: -15px;
-  }
-
-  #alfredo-caption h5{
-    font-size: 12px;
   }
 
   .button-container{
@@ -904,12 +539,6 @@ ul{
     font-size: 42px;
   }
 
-  .objective{
-    height: 100px;
-    font-size: 14px;
-    margin-left: -7px;
-  }
-
   #convocatoria{
     font-size: 13px;
   }
@@ -925,114 +554,16 @@ ul{
   .margin-bottomed{
     margin-bottom: 30px;
   }
-
-  .tab-programa .tabimage{
-    height: 60px;
-    width: 60px;
-  }
 }
 
 @media only screen and (max-width: 600px) {
-  
-
-  .horarios {
-    padding-left: 20px;
-  }
-
-  .top-padded{
-    padding-top: 12px;
-  }
-
-  h5.mod {
-    padding-left: 32px;
-  }
-
-  .expositor{
-    margin-top: 10px;
-    margin-left: -20px;
-  }
-
-  .expositor .name-in-tab-3, .expositor .name-in-tab-2 {
-    padding-left: 7px;
-    font-size: 12px;
-  }
-
-  .day h5 {
-    font-size: 14px;
-  }
-
-  .day h5.mod {
-    font-size: 12px;
-  }
-
-  .tabs-programa.row.card-row {
-    width: 100%;
-    display: flex;
-    margin-top: -50px;
-  }
-
-  .tab-programa {
-    display: block;
-  }
-
-  .row-button {
-    margin-bottom: 10px;
-  }
-
-  .mesa-header{
-    padding-left: 10px;
-  }
-
-  .role{
-    padding-left: 10px;
-  }
-
-  .role hr {
-    width: 60%;
-  }
-
-  #alfredo-caption{
-    font-size: 10px;
-  }
 
   .active-25.noticia {
     font-size: 16px;
   }
 
-  .description{
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-
-  .tab .tabimage {
-    height: 50px;
-    width: 50px;
-  }
-
-  .tab-programa .tabimage, .expositor .tabimage {
-    height: 50px;
-    width: 50px;
-  }
-
-  .photograph {
-    height: 50px;
-    width: 50px;
-  }
-
-  .row.card-row {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  #hands {
-    background-image: url("/sdc3/img/hands.png");
-    background-repeat: no-repeat;
-    position: absolute;
-    z-index: 1;
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
+  #logos-top{
+    width: 400px;
   }
 }
 
@@ -1040,11 +571,6 @@ ul{
   #banner-button {
     top: 414px;
     left: -5px;
-  }
-
-  #event-button1 {
-    left: 0px;
-    position: relative;
   }
 
   #event-button0 {
@@ -1064,20 +590,8 @@ ul{
     max-width: 150px;
   }
 
-  #alfredo-caption h5{
-    font-size: 10px;
-  }
-
-  #alfredo-caption{
-    font-size: 9px;
-  }
-
   strong{
     font-size: 40px;
-  }
-
-  .header-space{
-    margin-top: 4px;
   }
 
   #convocatoria{
@@ -1092,7 +606,7 @@ ul{
     padding-left: 0px;
   }
 }
-
+      
 @media only screen and (max-width: 400px) {
   #name{
     height: 220px;
@@ -1101,11 +615,9 @@ ul{
   #banner-button {
     top: 275px;
   }
-}
 
-@media only screen and (max-width: 345px) {
-  #event-button1{
-    top: -15px;
+  #logos-top{
+    width: 300px;
   }
 }
 

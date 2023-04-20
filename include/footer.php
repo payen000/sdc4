@@ -2,14 +2,17 @@
     <hr class="full-width">
     <div id="footer" class="centered">
         <div class="row">        
-            <div class="col-12 col-sm-4 order-2 order-sm-1">
-                <img class="logo" alt="logosomedicyt" src="/sdc3/img/logo_somedicyt.png">   
+            <div class="col-12 col-sm-3 order-2 order-sm-1">
+                <img class="logo vertical-center" alt="logosomedicyt" src="/sdc3/img/logo_somedicyt.png">   
             </div>
-             <div class="col-12 col-sm-4 order-1 order-sm-2">
-                <img class="logo" alt="logoibero" src="/sdc3/img/logo_ibero.png" id="iberologo"> 
+             <div class="col-12 col-sm-3 order-1 order-sm-2">
+                <img class="logo vertical-center" alt="logoibero" src="/sdc3/img/logo_ibero.png" id="iberologo"> 
             </div>
-            <div class="col-12 col-sm-4 order-3 order-sm-3">
-                <img class="logo" alt="logocolegionacional" src="/sdc3/img/logo_colegionacional.png">
+            <div class="col-12 col-sm-3 order-3 order-sm-3">
+                <img class="logo vertical-center" alt="logocolegionacional" src="/sdc3/img/logo_colegionacional.png">
+            </div>
+            <div class="col-12 col-sm-3 order-3 order-sm-3">
+                <img class="logo vertical-center" alt="logoacademiamexicana" src="/sdc3/img/logo_academiamexicana.png">
             </div>
         </div>
     </div>
