@@ -9,10 +9,10 @@
                 <img class="logo vertical-center" alt="logoibero" src="/sdc3/img/logo_ibero.png" id="iberologo"> 
             </div>
             <div class="col-12 col-sm-3 order-3 order-sm-3">
-                <img class="logo vertical-center" alt="logocolegionacional" src="/sdc3/img/logo_colegionacional.png">
+                <img class="logo vertical-center" alt="logoacademiamexicana" src="/sdc3/img/logo_academiamexicana.png">
             </div>
             <div class="col-12 col-sm-3 order-3 order-sm-3">
-                <img class="logo vertical-center" alt="logoacademiamexicana" src="/sdc3/img/logo_academiamexicana.png">
+                <img class="logo vertical-center" alt="logocolegionacional" src="/sdc3/img/logo_colegionacional.png">
             </div>
         </div>
     </div>

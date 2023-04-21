@@ -15,7 +15,7 @@
                     <div id="name"></div>
                     <div id="banner"></div>
                     <div id="banner-button">
-                        <a id="event-button0" class="btn btn-danger disabled" pointer="registro" role="button" href="#">Registro</a>
+                        <a id="event-button0" class="btn btn-danger disabled disabled-button" pointer="registro" role="button" href="#">Registro</a>
                     </div>
                 </div>
                 <div id="gradient">
@@ -257,7 +257,7 @@
                         </p>
                         <div id="regbutton" class="centered margin-bottomed" title="renglón de botón de registro">
                             <div title="botón de registro">
-                                <a id="registry-button" class="btn btn-primary disabled" pointer="registro" role="button">Registro</a>
+                                <a id="registry-button" class="btn btn-danger disabled disabled-button" pointer="registro" role="button">Registro</a>
                             </div>
                         </div>
                         <p>
@@ -266,7 +266,6 @@
                         <div class="margin-bottomed">
                             <p>
                                 El coloquio tendrá una cuota de recuperación de $300 pesos.<br><br>
-                                (Liga)<br><br>
                                 En caso de requerir una condonación de dicha cuota se deberá enviar un correo electrónico a anabel.arrieta@ibero.mx exponiendo los motivos.
                             </p>
                         <div><h2>Evaluación y dictamen de propuestas</h2></div>  
