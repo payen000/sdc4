@@ -100,7 +100,7 @@
                             Reconocer los diferentes métodos para la verificación de datos en los medios de comunicación.
                         </li>
                         <li class="yes-bullet">
-                            Comprender la influencia de los algoritmos, cajas de resonancia y sesgos cognitivos presentes en las redes sociales.
+                            Comprender la influencia de algoritmos, cajas de resonancia y sesgos cognitivos presentes en las redes sociales.
                         </li>
                         <li class="yes-bullet">
                             Proponer estrategias de reconocimiento, prevención y erradicación de la desinformación desde la perspectiva de la divulgación de la ciencia.
