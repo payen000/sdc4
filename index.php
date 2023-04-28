@@ -40,7 +40,7 @@
                                 a divulgadores, comunicadores, psicólogos, filósofos, académicos de todas las disciplinas, docentes, asociaciones civiles y a todo público interesado <br> a participar en el
                                 </p>
                                 <p style="font-weight: bold;" class="active-35">
-                                    3er Simposio de Divulgación de la Ciencia: divulgación en el mar de la desinformación
+                                    3er Simposio de Divulgación de la Ciencia: en el mar de la desinformación
                                 </p>
                                 <p class="active-35">
                                     que se llevará a cabo en la Universidad Iberoamericana Ciudad de México 
@@ -70,9 +70,9 @@
                     <p class="justified ">
                         En tiempos actuales, donde la digitalización y viralización de contenido hace posible que la información se transmita mucho más rápido, la desinformación ha tenido un impacto sin precedentes. Esta situación ha sido explotada con diversos intereses y motivos, lo que puede tener consecuencias en distintos niveles.<br><br>
  
-                        Ante esta crisis de infodemia, tener acceso a información precisa y correcta es crucial para la toma de decisiones sobre distintos aspectos de nuestra vida: salud y familia, política, economía, medio ambiente, entre otros.<br><br>
+                        Ante esta crisis de infodemia, tener acceso a información precisa y correcta es crucial para la toma de decisiones sobre distintos aspectos de nuestra vida: salud, familia, política, economía, medio ambiente, entre otros.<br><br>
   
-                        ¿Qué es la desinformación? ¿Cuáles son los agentes de la desinformación? ¿Cuál es el papel de los medios de comunicación ante esta situación? ¿Cuáles son los canales de la desinformación? ¿Cómo se hace para reconocer la desinformación? ¿Cuál es el papel de las científicas, los científicos y divulgadores? Con el fin de dialogar sobre estas y otras preguntas relacionadas, se plantea la realización del “3er. Simposio de Divulgación de la Ciencia: divulgación en el mar de la desinformación” para facilitar un espacio de intercambio entre profesionales de diferentes disciplinas en torno a la problemática planteada.
+                        ¿Qué es la desinformación? ¿Cuáles son los agentes de la desinformación? ¿Cuál es el papel de los medios de comunicación ante la desinformación? ¿Cuáles son los canales de la desinformación? ¿Cómo se reconoce la desinformación? ¿Cómo pueden contribuir las científicas, los científicos y divulgadores a combatir la desinformación? Con el fin de dialogar sobre estas y otras preguntas relacionadas, se plantea la realización del “3er. Simposio de Divulgación de la Ciencia: en el mar de la desinformación” para facilitar un espacio de intercambio entre profesionales de diferentes disciplinas en torno a la problemática planteada.
                     </p>
                 </section>
 
@@ -86,8 +86,10 @@
                     <ul title="lista de objetivos">
                         <li class="yes-bullet">
                             Crear un espacio de intercambio inter y transdisciplinar para facilitar el diálogo sobre el fenómeno de la desinformación.
-                        </li>
-                            Discutir el lugar de la comunicación de la ciencia dentro de esta crisis de infodemia.
+			</li>
+			<li class="yes-bullet">
+			    Discutir el lugar de la comunicación de la ciencia dentro de la crisis de infodemia.
+			</li>
                         <li class="yes-bullet">
                             Analizar las consecuencias de la desinformación.
                         </li>
@@ -98,7 +100,7 @@
                             Reconocer los diferentes métodos para la verificación de datos en los medios de comunicación.
                         </li>
                         <li class="yes-bullet">
-                            Comprender la influencia de los algoritmos, cajas de resonancia y sesgos cognitivos presentes en las redes.
+                            Comprender la influencia de los algoritmos, cajas de resonancia y sesgos cognitivos presentes en las redes sociales.
                         </li>
                         <li class="yes-bullet">
                             Proponer estrategias de reconocimiento, prevención y erradicación de la desinformación desde la perspectiva de la divulgación de la ciencia.
@@ -130,10 +132,7 @@
                                 Métodos de verificación de información.
                             </li>
                             <li class="yes-bullet">
-                                ¿Qué es la desinformación?
-                            </li>
-                            <li class="yes-bullet">
-                                Método científico, pensamiento crítico y pensamiento mágico
+                                Método científico, pensamiento crítico y pensamiento mágico.
                             </li>
                             <li class="yes-bullet">
                                 Opinión, creencia y datos.
@@ -156,7 +155,7 @@
                                 ¿Qué se puede hacer contra la desinformación?
                             </li>
                         </ol>
-                        <p>
+                        <p class="justified">
                             El abordaje de los temas podrá presentarse desde los puntos de vista de diversas disciplinas: ciencias naturales, sociales, computacionales, de la comunicación, psicología, filosofía, sociología, economía, ciencias políticas, medicina, historia, pedagogía, educación, periodismo, etc.
                         </p>
                     </div>
@@ -233,9 +232,6 @@
                                 Conferencias magistrales
                             </li>
                             <li class="yes-bullet">
-                                Grupos de análisis y discusión.
-                            </li>
-                            <li class="yes-bullet">
                                 Grupos de análisis y discusión 
                             </li>
                             <li class="yes-bullet">
@@ -265,9 +261,9 @@
                         <div><h2>Costos</h2></div>
                         <div class="margin-bottomed">
                             <p>
-                                El coloquio tendrá una cuota de recuperación de $300 pesos.<br><br>
+                                El simposio tendrá una cuota de recuperación de $300 pesos.<br><br>
                                 En caso de requerir una condonación de dicha cuota se deberá enviar un correo electrónico a anabel.arrieta@ibero.mx exponiendo los motivos.
-                            </p>
+                            </p><br>
                         <div><h2>Evaluación y dictamen de propuestas</h2></div>  
                         <div>
                             Los trabajos propuestos al simposio se someterán a evaluación por un Comité Evaluador ad hoc. Para la evaluación se tomará en cuenta la calidad, creatividad, originalidad y  congruencia del trabajo, así como la descripción del método, los resultados, el impacto esperado y el apego a los objetivos del simposio.<br><br>
@@ -285,7 +281,7 @@
 
                     <div>    
                         <p>
-                            El programa se publicará en la <a class="self-link" href="http://dep.fismat.ibero.mx/sdc3/" style="font-weight:bold">página del coloquio</a>
+                            El programa se publicará en la <a class="self-link" href="http://dep.fismat.ibero.mx/sdc3/" style="font-weight:bold">página del coloquio</a> en esta sección a partir del 6 de octubre.
                         </p>
                     </div>
                 </section>
@@ -304,12 +300,12 @@
                         </li>
                         <li class="no-bullet">
                             <span>
-                                Dr. Nemesio Chávez Arredondo, SOMEDICYT
+                                Dr. Nemesio Chávez Arredondo, SOMEDICyT
                             </span>
                         </li>
                         <li class="no-bullet">
                             <span>
-                                Dra. Susana Estela Lizano Soberón, AMC-El Colegio Nacional
+                                Dra. Susana Estela Lizano Soberón, AMC - El Colegio Nacional
                             </span>
                         </li>
                         <li class="margin-bottomed no-bullet">
