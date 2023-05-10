@@ -15,7 +15,14 @@
                     <div id="name"></div>
                     <div id="banner"></div>
                     <div id="banner-button">
-                        <a id="event-button0" class="btn btn-danger disabled disabled-button" pointer="registro" role="button" href="#">Registro</a>
+			<a
+                            id="event-button0"
+                            class="btn btn-primary"
+                            pointer="registro"
+                            role="button"
+                            href="https://forms.office.com/r/4USJQUJ3kw"
+                            target="_blank"
+                        >Registro</a>
                     </div>
                 </div>
                 <div id="gradient">
@@ -205,7 +212,7 @@
                                 6 octubre:
                             </div>
                             <div class="col-12 col-md-6 col-xl-7">
-                                Publicación del programa final
+                                Publicación del programa final.
                             </div>
                         </li>
                         <li class="row no-bullet">
@@ -213,7 +220,7 @@
                                 25 al 27 de octubre:
                             </div>
                             <div class="col-12 col-md-6 col-xl-7">
-                                Simposio
+                                Simposio.
                             </div>
                         </li>
                     </ul>
@@ -229,13 +236,16 @@
                         <p>El programa incluirá las siguientes actividades:</p>
                         <ul title="lista de actividades">
                             <li class="yes-bullet">
-                                Conferencias magistrales
+                                Conferencias magistrales.
                             </li>
                             <li class="yes-bullet">
-                                Grupos de análisis y discusión 
+                                Grupos de análisis y discusión.
+			    </li>
+                            <li class="yes-bullet">
+                                Presentaciones orales.
                             </li>
                             <li class="yes-bullet">
-                                Carteles
+                                Carteles.
                             </li>
                         </ul>
                     </div>
@@ -253,10 +263,16 @@
                         </p>
                         <div id="regbutton" class="centered margin-bottomed" title="renglón de botón de registro">
                             <div title="botón de registro">
-                                <a id="registry-button" class="btn btn-danger disabled disabled-button" pointer="registro" role="button">Registro</a>
+				<a
+                                    id="registry-button"
+                                    class="btn btn-primary"
+                                    pointer="registro"
+				    role="button"
+                                    href="https://forms.office.com/r/4USJQUJ3kw"
+                                    target="_blank"
+                                >Registro</a>
                             </div>
                         </div>
-                        <p>
 
                         <div><h2>Costos</h2></div>
                         <div class="margin-bottomed">

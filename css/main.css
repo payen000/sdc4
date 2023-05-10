@@ -9,6 +9,11 @@
     box-shadow: 0px 0px 10px #791715;
     left: 660px;
     position: absolute;
+    background-color: #539e35;
+    border-color: #539e35;
+    -webkit-box-shadow: black 0px 0px 3px 0px;
+            box-shadow: black 0px 0px 3px 0px;
+    text-shadow: 0px 0px 5px black;
 }
 
 #banner-button {
@@ -284,7 +289,7 @@ ul{
     position: relative;
     height: 630px;
     background-position: left;
-    background-color: #edecf4;
+    background-color: white;
     color: black;
     background-size: cover;
     padding-bottom: 0;
