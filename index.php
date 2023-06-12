@@ -79,7 +79,7 @@
  
                         Ante esta crisis de infodemia, tener acceso a información precisa y correcta es crucial para la toma de decisiones sobre distintos aspectos de nuestra vida: salud, familia, política, economía, medio ambiente, entre otros.<br><br>
   
-                        ¿Qué es la desinformación? ¿Cuáles son los agentes de la desinformación? ¿Cuál es el papel de los medios de comunicación ante la desinformación? ¿Cuáles son los canales de la desinformación? ¿Cómo se reconoce la desinformación? ¿Cómo pueden contribuir las científicas, los científicos y divulgadores a combatir la desinformación? Con el fin de dialogar sobre estas y otras preguntas relacionadas, se plantea la realización del “3er. Simposio de Divulgación de la Ciencia: en el mar de la desinformación” para facilitar un espacio de intercambio entre profesionales de diferentes disciplinas en torno a la problemática planteada.
+                        ¿Qué es la desinformación? ¿Cuáles son los agentes de la desinformación? ¿Cuál es el papel de los medios de comunicación ante la desinformación? ¿Cuáles son los canales de la desinformación? ¿Cómo se reconoce la desinformación? ¿Cómo pueden contribuir las científicas, los científicos y divulgadores a combatir la desinformación? Con el fin de dialogar sobre estas y otras preguntas relacionadas, se plantea la realización del “3er Simposio de Divulgación de la Ciencia: en el mar de la desinformación” para facilitar un espacio de intercambio entre profesionales de diferentes disciplinas en torno a la problemática de la desinformación.
                     </p>
                 </section>
 
@@ -177,7 +177,7 @@
                     <ul style="padding-left: 1px;" title="lista de fechas">
                         <li class="row no-bullet">
                             <div class="bold col-12 col-md-6 col-xl-5">
-                                25 agosto 2023: 
+                                25 agosto: 
                             </div>
                             <div class="col-12 col-md-6 col-xl-7">
                                 Fecha límite para inscribir trabajos al Simposio.
@@ -185,7 +185,7 @@
                         </li>
                         <li class="row no-bullet">
                             <div class="bold col-12 col-md-6 col-xl-5">
-                                15 septiembre 2023:
+                                15 septiembre:
                             </div>
                             <div class="col-12 col-md-6 col-xl-7">
                                 Publicación de trabajos aceptados.
@@ -201,7 +201,7 @@
                         </li>
                         <li class="row no-bullet">
                             <div class="bold col-12 col-md-6 col-xl-5">
-                                1 de octubre: 
+                                1 octubre: 
                             </div>
                             <div class="col-12 col-md-6 col-xl-7">
                                 Fecha límite para pago de inscripción.
@@ -282,7 +282,7 @@
                             </p><br>
                         <div><h2>Evaluación y dictamen de propuestas</h2></div>  
                         <div>
-                            Los trabajos propuestos al simposio se someterán a evaluación por un Comité Evaluador ad hoc. Para la evaluación se tomará en cuenta la calidad, creatividad, originalidad y  congruencia del trabajo, así como la descripción del método, los resultados, el impacto esperado y el apego a los objetivos del simposio.<br><br>
+                            Los trabajos propuestos al simposio se someterán a evaluación por un Comité Evaluador ad hoc. Se tomará en cuenta la calidad, creatividad, originalidad y  congruencia del trabajo, así como la descripción del método, los resultados, el impacto esperado y el apego a los objetivos del simposio.<br><br>
  
                             Las decisiones serán inapelables y se publicarán en la <a class="self-link" href="http://dep.fismat.ibero.mx/sdc3/" style="font-weight:bold">página oficial del Simposio</a> a partir del 15 de septiembre indicando la modalidad en que se aceptó el trabajo.
                         </div>
@@ -297,7 +297,7 @@
 
                     <div>    
                         <p>
-                            El programa se publicará en la <a class="self-link" href="http://dep.fismat.ibero.mx/sdc3/" style="font-weight:bold">página del coloquio</a> en esta sección a partir del 6 de octubre.
+                            El programa se publicará en la <a class="self-link" href="http://dep.fismat.ibero.mx/sdc3/" style="font-weight:bold">página del simposio</a> en esta sección a partir del 6 de octubre.
                         </p>
                     </div>
                 </section>
