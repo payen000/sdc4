@@ -330,14 +330,15 @@ ul{
 }
 
 #gradient {
-    height: 87px;
+  height: 95px;
     width: 100%;
-    background-color: #26509c;
     position: absolute;
     top: 543px;
     z-index: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top: 5px solid #26509c;
+    border-bottom: 5px solid #26509c;
 }
 
 #logos-top {
@@ -571,7 +572,7 @@ ul{
   }
 
   #logos-top{
-    width: 400px;
+    width: 420px;
   }
 }
 
