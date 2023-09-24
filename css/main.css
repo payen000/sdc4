@@ -1,13 +1,13 @@
 /*banner button*/
 #event-button0 {
     height: 50px;
-    width: 185px;
+    width: 285px;
     padding-top: 12px;
     font-weight: bold;
     z-index: 10;
     color: white;
     box-shadow: 0px 0px 10px #791715;
-    left: 660px;
+    left: 730px;
     position: absolute;
     background-color: #539e35;
     border-color: #539e35;
@@ -27,6 +27,7 @@
 .disabled-button {
     background-color: #b03434 !important;
     border-color: #791715 !important;
+    opacity: 0.75;
 }
 
 /* formato del programa */
@@ -65,6 +66,7 @@ a.nav-link.active-link {
 }
 
 /* formato de contenido */
+
 .vertical-center{
     top: 50%;
     -ms-transform: translateY(-50%);
@@ -128,7 +130,7 @@ strong{
 #registry-button {
     background-color: #539e35;
     border-color: #539e35;
-    width: 180px;
+    width: 270px;
     height: 45px;
     padding: 10px;
     -webkit-box-shadow: black 0px 0px 3px 0px;
@@ -402,11 +404,68 @@ ul{
 }
 
 #footer > .row > .col-12 {
-  height: 150px;
+    height: 150px;
 }
 
 .bi.bi-caret-right-square-fill {
     margin-top: -4px;
+}
+
+.photograph {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+.card.invitado {
+  margin-bottom: 1rem;
+}
+
+.card-inside hr {
+    margin-top: -0.5rem;
+}
+
+.name-in-card {
+    font-size: 1.25rem;
+}
+
+.card-row {
+    padding: 1rem 3rem 1rem 3rem;
+}
+
+#participantes {
+    margin-top: 60px;
+}
+
+#participantes h2 {
+    opacity: 0;
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+    animation-name: fade-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+#participantes ul {
+    opacity: 0;
+    font-size: 1rem;
+    animation-name: fade-in;
+    animation-duration: 1s;
+    animation-delay: 0.5s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+#participantes li {
+    margin-bottom: 1.5rem;
+}
+
+/* animations  */
+
+@keyframes fade-in {
+  0%   {opacity: 0;}
+  100% {opacity: 1;}
 }
 
 /* media queries */
@@ -415,6 +474,9 @@ ul{
   #name {
     top: -0.5rem;
     width: 25rem;
+  }
+  #event-button0 {
+      left: 655px;
   }
 }
 
@@ -427,7 +489,7 @@ ul{
 
 @media only screen and (max-width: 991px){
   #event-button0{
-    left: 500px;
+    left: 450px;
   }
 
   #front-container{
@@ -498,7 +560,8 @@ ul{
 
 @media only screen and (max-width: 767px) {
   #event-button0{
-    left: 36%;
+    left: 0px;
+    position: relative;
   }
 
   .footer-data.footer-end.container.resonsive.centered.not-full-width {
@@ -566,7 +629,6 @@ ul{
 }
 
 @media only screen and (max-width: 600px) {
-
   .active-25.noticia {
     font-size: 16px;
   }
@@ -574,6 +636,19 @@ ul{
   #logos-top{
     width: 420px;
   }
+
+  .name-in-card {
+    font-size: 0.9rem;
+  }
+
+  .card-row {
+      padding: 1rem 1rem 1rem 1rem;
+  }
+
+  .photograph {
+      width: 60px;
+      height: 60px;
+  };
 }
 
 @media only screen and (max-width: 500px) {
@@ -581,11 +656,6 @@ ul{
     top: 414px;
     left: -5px;
   }
-
-  #event-button0 {
-    left: 0px;
-    position: relative;
-  } 
 
   #name{
     height: 280px;

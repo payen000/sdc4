@@ -77,6 +77,7 @@ function initialize(){
 			    event.preventDefault();
   			
 	  			let obj = document.getElementById(this.getAttribute("pointer"))
+				if (!obj) return;
 	  			window.scroll(0, findPos(obj) - 60);
 
 	  			let state = navbarButton.getAttribute("aria-expanded");
@@ -91,6 +92,7 @@ function initialize(){
 	for (let i = 0; i < navButtons.length; i++) {
   		navButtons[i].addEventListener("click", function(event){
 	  			let obj = document.getElementById(this.getAttribute("pointer"))
+				if (!obj) return;
 	  			window.scroll(0, findPos(obj) - 60);
 
 	  			let state = navbarButton.getAttribute("aria-expanded");

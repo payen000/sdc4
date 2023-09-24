@@ -6,21 +6,19 @@
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@uia_fismat">
-    <meta property="twitter:image" content="http://dep.fismat.ibero.mx/sdc3/img/thumbnail.jpg">
+    <meta property="twitter:image" content="/sdc3/img/thumbnail.png">
 
     <meta name="description" content="Del 25 al 27 de octubre de 2023.">
     <meta name="author" content="Payen-Sandoval, A.">
     <link rel="icon" href="/sdc3/img/icon.png">
 
     <meta property="og:site_name" content="Departamento de Física y Matemáticas, Ibero"/>
-    <meta property="og:title" content="3er Simposio de Divulgación de la Ciencia: Una Emergencia Climática">
+    <meta property="og:title" content="3er Simposio de Divulgación de la Ciencia: en el mar de la desinformación">
 
     <meta property="og:description" content="Del 25 al 27 de octubre de 2023.">
-    <meta property="og:image" itemprop="image" content="/sdc3/img/thumbnail.jpg">
+    <meta property="og:image" itemprop="image" content="/sdc3/img/thumbnail.png">
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="http://dep.fismat.ibero.mx/sdc3/"/>
-
-
+    <meta property="og:url" content="https://dep.fismat.ibero.mx/sdc3/"/>
 
     <title>3.° Simposio de Divulgación de la Ciencia</title>
 
