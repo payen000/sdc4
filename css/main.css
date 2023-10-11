@@ -461,6 +461,39 @@ ul{
     margin-bottom: 1.5rem;
 }
 
+#programa {
+    margin-top: 60px;
+}
+
+#programa-simplificado {
+    text-align: center;
+}
+
+#programa-simplificado img {
+  width: 100%;
+  min-width: 300px;
+}
+
+.card .event-title {
+    font-weight: bold;
+}
+
+.card .event-name {
+    font-style: italic;
+}
+
+.day {
+    margin-top: 30px;
+}
+
+#programa h4 {
+    margin-bottom: 20px;
+}
+
+#programa h5 {
+    font-size: 1.22rem;
+}
+
 /* animations  */
 
 @keyframes fade-in {

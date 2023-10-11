@@ -37,6 +37,9 @@
             Participantes
           </a>
         </li>
+        <li class="nav-item" style="background-color: #b62924; border: solid 2px #731514;">
+          <a class="nav-link active-link" href="programa.php" target="_blank">Programa</a>
+        </li>
       </ul>
     </div>
   </div>
