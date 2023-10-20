@@ -273,14 +273,14 @@
                                             <h5 class="vertical-center event-title">Plática Magistral</h5>
                                         </div>
                                         <div class="col-12 col-lg-6">
-                                            <h5 class="vertical-center event-name">Dra. Rossana Reguillo Cruz</h5>
+                                            <h5 class="vertical-center event-name">Lic. Agustín Ávila Casanueva</h5>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-3 col-sm-3 righted">
                                     <div class="row vertical-center">                    
                                         <div class="expositor">
-                                            <img src="/sdc3/img/rossana.png" class="photograph vertical-center">
+                                            <img src="/sdc3/img/agustin.png" class="photograph vertical-center">
                                         </div>
                                     </div>
                                 </div>

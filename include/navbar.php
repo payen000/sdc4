@@ -27,6 +27,9 @@
           <a class="nav-link active-link" pointer="invitados" tabindex="0" title="invitados">Invitados</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link active-link centered" pointer="mesas" tabindex="0">Mesas de discusión</a>
+        </li>
+        <li class="nav-item">
           <a
           class="nav-link active-link"
           tabindex="0"

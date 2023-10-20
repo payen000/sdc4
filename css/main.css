@@ -1,3 +1,98 @@
+/*mesas*/
+.mesa-header {
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+.mesa, .invitado {
+  margin-bottom: 15px;
+}
+
+.mesa{
+  min-height: 365px;
+}
+
+.desk{
+  display: block;
+}
+
+.role {
+  padding-left: 50px;
+  margin-top: 25px;
+  margin-bottom: -25px;
+  font-size: 16px;
+}
+
+hr {
+  height: 1.5px !important;
+  background: -webkit-gradient(linear, left top, right top, from(#ccc), color-stop(#333), to(#ccc));
+  background: -o-linear-gradient(left, #ccc, #333, #ccc);
+  background: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.mini{
+  display: block;
+}
+
+.tab {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.tab, .expositor {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 220px;
+}
+
+.tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.name-in-card {
+  font-size: 16px;
+}
+
+.name-in-tab-2, .name-in-tab-3 {
+  font-weight: normal;
+}
+
+.name-in-tab-2{
+  font-size: 12px;
+  color: black;
+  padding-top: 8px;
+  width: 130px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.name-in-tab-3 {
+  font-size: 12px;
+  color: black;
+  width: 130px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.mini {
+  display: none;
+}
+
+.mesa-empty {
+  padding-bottom: 50px;
+}
+
+.role hr {
+  margin: -28px 0px 30px 85px;
+  width: 80%;
+}
 /*banner button*/
 #event-button0 {
     height: 50px;
@@ -579,6 +674,22 @@ ul{
   .section-header{
     text-align: center;
   }
+
+  
+  .name-in-card {
+    font-size: 16px;
+  }
+  
+}
+
+@media only screen and (max-width: 1484px){
+  .mini {
+    display: block;
+  }
+  
+  .desk{
+    display: none;
+  }
 }
 
 @media only screen and (min-width:  992px){
@@ -658,6 +769,10 @@ ul{
 
   .margin-bottomed{
     margin-bottom: 30px;
+  }
+
+  .name-in-card {
+    font-size: 15px;
   }
 }
 

@@ -15,14 +15,16 @@
                     <div id="name"></div>
                     <div id="banner"></div>
                     <div id="banner-button">
-			<a
+			            <a
                             id="event-button0"
-                            class="btn btn-primary disabled-button disabled"
+                            class="btn btn-primary"
                             pointer="registro"
                             role="button"
                             target="_blank"
-                            aria-disabled="true"
-                        >Registro de trabajos cerrado</a>
+                            href=https://forms.office.com/r/e3eVzL8cYt?origin=lprLink
+                        >
+                            Registro para participar
+                        </a>
                     </div>
                 </div>
                 <div id="gradient">
@@ -276,7 +278,7 @@
                                 <div class="card-inside">
                                     <div class="card-text">
                                         <p class="description">
-                                            Estudió biología en la Facultad de Ciencias de la UNAM y se dedica a la comunicación de la ciencia desde 2010. Como periodista ha publicado en SciDev.Net, Pie de Página, Distintas Latitudes, El Universal, entre otros. Recibió el Premio Nacional Luis Estrada para Jóvenes Divulgadores (2011), el Premio del Distrito Federal a la Socialización de la Ciencia (2012) y el Premio Nacional de Periodismo y Divulgación Científica (2016). En 2020 fue nominada al Fetisov Journalism Award for Best Investigative Reporting. Sus investigaciones han sido apoyadas por el Howard Hughes Medical Institute, Inquire First, la Friedrich-Ebert-Stiftung, la International Women’s Media Foundation, el Microbiota Institute y Climate Tracker.
+                                            Estudió biología en la Facultad de Ciencias de la UNAM y se dedica a la comunicación de la ciencia desde 2010. Como periodista ha publicado en SciDev.Net, Pie de Página, Distintas Latitudes, El Universal, entre otros. Recibió el Premio Nacional Miguel Ángel Herrera para Jóvenes Divulgadores (2011), el Premio del Distrito Federal a la Socialización de la Ciencia (2012) y el Premio Nacional de Periodismo y Divulgación Científica (2016). En 2020 fue nominada al Fetisov Journalism Award for Best Investigative Reporting. Sus investigaciones han sido apoyadas por el Howard Hughes Medical Institute, Inquire First, la Friedrich-Ebert-Stiftung, la International Women’s Media Foundation, el Microbiota Institute y Climate Tracker.
                                             <br><br>Actualmente es fact-checker en Pictoline, guionista del programa de TV Reporte Climático y también del podcast Historias para mentes curiosas del Tecnológico de Monterrey. Asimismo, ha producido historias sonoras para los podcasts En común: conocimiento en voz viva y Así como suena. Escribe también en el suplemento Mercurio Volante de Hipócrita Lector. Es integrante de la Red Mexicana de Periodistas de Ciencia desde 2018 y de la SOMEDICYT desde 2013.
                                         </p>
                                     </div>
@@ -287,11 +289,11 @@
                     <div class="card invitado">
                         <div class="row card-row">
                             <div class="col-3">
-                                <img src="/sdc3/img/rossana.png" class="photograph vertical-center">
+                                <img src="/sdc3/img/agustin.png" class="photograph vertical-center">
                             </div>
                             <div class="col-6 lefted">
                                 <div class="vertical-center">
-                                    <h5 class="name-in-card">Dra. Rossana Reguillo Cruz</h5>
+                                    <h5 class="name-in-card">Lic. Agustín Ávila Casanueva</h5>
                                 </div>
                             </div>
                             <div class="col-3 centered">
@@ -303,9 +305,12 @@
                                 <div class="card-inside">
                                     <div class="card-text">
                                         <p class="description">
-                                        Licenciada en Ciencias de la Comunicación, Maestra en Comunicación por el ITESO y Doctora en Ciencias Sociales, con especialidad en Antropología Social, por el CIESAS-Universidad de Guadalajara. Ha sido profesora invitada en diversas universidades de Latinoamérica, España y Estados Unidos: Tinker Visiting Profesor en el Center for Latinamerican Studies (Universidad de Stanford, 2001), catedrática UNESCO en Comunicación (Universidad Autónoma de Barcelona y Universidad Javeriana de Bogotá, 2004), y Andrés Bello Chair en Cultura y Civilización Latinoamericanas (Universidad de Nueva York, 2011).
-                                        <br><br>Ha realizado estudios en México y América Latina sobre cultura urbana y miedos sociales; violencias y culturas juveniles, así como sobre los sentimientos colectivos y la acción política. Se le considera una de las principales estudiosas de las culturas juveniles. Obtuvo el Premio Nacional de Antropología a la Mejor Investigación, otorgado por el Instituto Nacional de Antropología e Historia (INAH), en 1995, y el Premio Iberoamericano a la Investigación Municipal y Regional, otorgado por la Unión de Ciudades Capitales, en Madrid en 1996. Es autora, entre otros libros, de La construcción simbólica de la ciudad (1996), Horizontes fragmentados. Comunicación, cultura, pospolítica (2005), y coordinadora de Los jóvenes en México (2010).
-                                        <br><br>Actualmente es parte del Departamento de Estudios Socioculturales en Antropología Urbana y Estudios Socioculturales y de la planta docente del Doctorado en Estudios Científico Sociales del ITESO. Pertenece al Sistema Nacional de Investigadores, Nivel III, y a la Academia Mexicana de Ciencias.
+                                            Es coordinador de la Unidad de Divulgación y Difusión del Centro de Ciencias Genómicas de la UNAM. Como miembro del colectivo Ciencia Beat,
+                                            fueron ganadores del Premio Nacional de Periodismo 2018 en la categoría de Divulgación de la ciencia. En el 2020 obtuvo la beca Robert L. Breen
+                                            para periodistas mexicanos del programa Under the Volcano. En el 2023 recibió el Premio al Mérito Periodístico del Estado de Morelos en la 
+                                            categoría de Periodismo Científico y Cultural. Ha colaborado en medios como Tec Review, Chilango, Nexos, La Revista de la Universidad, 
+                                            Gatopardo y Este País. Es editor del libro “De cero a ciencia” (2021), una antología de textos de divulgación científica. Es miembro de la Red 
+                                            Mexicana de Periodistas de Ciencia.
                                         </p>
                                     </div>
                                 </div>
@@ -333,12 +338,241 @@
                                         <p class="description">
                                             Reconocido médico microbiólogo y especialista en infectología. Es también director de Medicina Interna en el Centro Médico ABC Observatorio y dirigió el Programa COVID-19 de la institución. El Dr. Moreno Sánchez es egresado de la Universidad La Salle (ULSA), con especialización en Medicina Interna por el Centro Médico ABC y subespecialidad en infectología por la Universidad de Texas, donde obtuvo el Premio Merck al mejor residente del estado de Texas.
                                             <br><br>Ha publicado más de 75 artículos especializados, incluyendo 3 en el prestigioso Journal of the American Medical Association (JAMA), y ha colaborado en 12 libros como editor de capítulo, además de haber publicado 5 ediciones del libro ‘El ABC de la Medicina Interna’. Por su gran trayectoria profesional fue galardonado como uno de los 50 mejores médicos de México en los ‘Top Doctors Awards’ en 2016 y 2019.
-                                            <br><br>El Dr, Moreno, quien estuvo en la primera línea de batalla contra el virus del COVID-19, fue testigo del avance devastador de la pandemia. Se ha destacado por difundir información científica a través de redes sociales y otros medios escritos impresos y electrónicos. Es además autor del libro “Historias de una pandemia”.
+                                            <br><br>El Dr. Moreno, quien estuvo en la primera línea de batalla contra el virus del COVID-19, fue testigo del avance devastador de la pandemia. Se ha destacado por difundir información científica a través de redes sociales y otros medios escritos impresos y electrónicos. Es además autor del libro “Historias de una pandemia”.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </section>
+
+                <section class="section-box" id="mesas" title="mesas de discusión">
+                    <div class="header-background">
+                        <h2 class="section-header">Mesas de discusión</h2>    
+                    </div>
+                    <label class="screenreader-text">Mesas de discusión</label>
+
+                    <div class="card mesa">
+                        <div class="mesa-header">
+                            <h4 class="name-in-card">Mesa 1: Sobre desinformación</h4>
+                            <h5 class="name-in-card">Fecha: miércoles 25 de octubre</h5>  
+                            <h5 class="name-in-card">Moderadora: Anabel Arrieta</h5>   
+                        </div>            
+                        <div class="role">
+                            <p>Participantes</p>
+                            <hr>
+                        </div>  
+                        <div class="row card-row desk" aria-hidden="true">
+                            <div class="tabs">
+                                <div class="tablinks nav-link tab">
+                                   <img src="/sdc3/img/franco.png" class="photograph vertical-center">
+                                    <p class="name-in-tab-3 vertical-center">
+                                        Dr. José <br>Franco<br>López
+                                     </p>
+                                    <p></p>
+                                </div>
+                                <div class="tablinks nav-link tab">
+                                    <img src="/sdc3/img/galan.png" class="photograph vertical-center">
+                                    <p class="name-in-tab-3 vertical-center">
+                                        Dr. Francisco<br>Vicente<br>Galán Vélez
+                                    </p>
+                                </div>
+                                <div class="tablinks nav-link tab">
+                                    <img src="/sdc3/img/irazabal.png" class="photograph vertical-center">
+                                    <p class="name-in-tab-3 vertical-center">
+                                        Mtra. Begoña <br>Irazabal<br>Valdes
+                                    </p>
+                                </div>
+                                <div class="tablinks nav-link tab">
+                                    <img src="/sdc3/img/triana.png" class="photograph vertical-center">
+                                    <p class="name-in-tab-3 vertical-center">
+                                        Mtro. Daniel <br>Triana<br>Tena
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row card-row mini">
+                            <div class="card invitado">
+                                <div class="row card-row">
+                                    <div class="col-3">
+                                        <img src="/sdc3/img/franco.png" class="photograph vertical-center">
+                                    </div>
+                                    <div class="col-6 lefted">
+                                        <div class="vertical-center">
+                                            <h5 class="name-in-card">Dr. José Franco López</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-3 centered">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card invitado">
+                                <div class="row card-row">
+                                    <div class="col-3">
+                                        <img src="/sdc3/img/galan.png" class="photograph vertical-center">
+                                    </div>
+                                    <div class="col-6 lefted">
+                                        <div class="vertical-center">
+                                            <h5 class="name-in-card">Dr. Francisco Vicente Galán Vélez</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-3 centered">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card invitado">
+                                <div class="row card-row">
+                                    <div class="col-3">
+                                        <img src="/sdc3/img/irazabal.png" class="photograph vertical-center">
+                                    </div>
+                                    <div class="col-6 lefted">
+                                        <div class="vertical-center">
+                                            <h5 class="name-in-card">Mtra. Begoña Irazabal Valdes</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-3 centered">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card invitado">
+                                <div class="row card-row">
+                                    <div class="col-3">
+                                        <img src="/sdc3/img/triana.png" class="photograph vertical-center">
+                                    </div>
+                                    <div class="col-6 lefted">
+                                        <div class="vertical-center">
+                                            <h5 class="name-in-card">Mtro. Daniel Triana Tena</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-3 centered">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card mesa">
+                        <div class="mesa-header">
+                            <h4 class="name-in-card">Mesa 2: Combatiendo la desinformación</h4>
+                            <h5 class="name-in-card">Fecha: jueves 26 de octubre</h5>  
+                            <h5 class="name-in-card">Moderadora: Lorena Arias Montaño</h5>   
+                        </div>            
+                        <div class="role">
+                            <p>Participantes</p>
+                            <hr>
+                        </div>  
+                        <div class="row card-row desk" aria-hidden="true">
+                            <div class="tabs">
+                                <div class="tablinks nav-link tab">
+                                   <img src="/sdc3/img/mochan.png" class="photograph vertical-center">
+                                    <p class="name-in-tab-2 vertical-center">
+                                        Dr. Luis <br>Mochán<br>Backal
+                                     </p>
+                                    <p></p>
+                                </div>
+                                <div class="tablinks nav-link tab">
+                                    <img src="/sdc3/img/ortega.png" class="photograph vertical-center">
+                                    <p class="name-in-tab-3 vertical-center">
+                                        Dr. René <br>Alberto <br>Ortega <br>Minakata
+                                    </p>
+                                </div>
+                                <div class="tablinks nav-link tab">
+                                    <img src="/sdc3/img/perelman.png" class="photograph vertical-center">
+                                    <p class="name-in-tab-2 vertical-center">
+                                        Quím. Carol <br>Perelman
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row card-row mini">
+                            <div class="card invitado">
+                                <div class="row card-row">
+                                    <div class="col-3">
+                                        <img src="/sdc3/img/mochan.png" class="photograph vertical-center">
+                                    </div>
+                                    <div class="col-6 lefted">
+                                        <div class="vertical-center">
+                                            <h5 class="name-in-card">Dr. Luis Mochán Backal</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-3 centered">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card invitado">
+                                <div class="row card-row">
+                                    <div class="col-3">
+                                        <img src="/sdc3/img/ortega.png" class="photograph vertical-center">
+                                    </div>
+                                    <div class="col-6 lefted">
+                                        <div class="vertical-center">
+                                            <h5 class="name-in-card">Dr. René Alberto Ortega Minakata</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-3 centered">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card invitado">
+                                <div class="row card-row">
+                                    <div class="col-3">
+                                        <img src="/sdc3/img/perelman.png" class="photograph vertical-center">
+                                    </div>
+                                    <div class="col-6 lefted">
+                                        <div class="vertical-center">
+                                            <h5 class="name-in-card">Quím. Carol Perelman</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-3 centered">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card mesa-empty">
+                        <div class="mesa-header">
+                            <h4 class="name-in-card">Mesa 3: Conclusiones y cierre</h4>
+                            <h5 class="name-in-card">Moderador: Gerardo Martínez Avilés</h5>   
+                        </div>            
+                    </div>
+                </section>
+
+                <section class="section-box" id="registro" title="registro">
+                    <div class="header-background">
+                        <h2 class="section-header">Pago de Inscripción</h2>
+                    </div>
+                    <label class="screenreader-text">Pago de Inscripción</label>
+
+                    <div>    
+                        <p>
+                            Estimado participante,
+                            <br><br>Todavía estamos a tiempo para participar en el 
+                            <span style="font-weight: bold;">3er Simposio de Divulgación de la Ciencia: en el mar de la desinformación</span>.
+                            <br>Para formalizar la inscripción deberás realizar el pago de $300.00 (Trescientos pesos mexicanos) ingresando a la siguiente liga:
+                        </p>
+                        <div class="centered margin-bottomed" title="renglón de botón de registro">
+                            <div title="botón de registro">
+				                <a
+                                    target="_blank"
+                                    href=http://enlinea.uia.mx/sit/SitActividadesEsp.cfm
+                                >http://enlinea.uia.mx/sit/SitActividadesEsp.cfm</a>
+                            </div>
+                        </div>
+
+                        <p>
+                            Una vez ahí, debes seleccionar la opción <span style="font-weight: bold;">3er Simposio de Divulgación de la Ciencia: en el mar de la desinformación</span>, así como las unidades (puedes pagar
+                            por uno o más participantes). Después de dar Aceptar el sistema te llevará a un registro de datos, algunos campos no tienen asterisco y pueden quedar en blanco (como el Número de cuenta UIA). Posterior al Aviso de privacidad llegarás a la zona para ingresar los datos de la tarjeta de <span style="font-weight: bold;">crédito o débito</span>.
+                            
+                            <br><br><span style="font-weight: bold;">¡Te solicitamos de manera muy especial que al finalizar el proceso nos envíes el comprobante a 
+                            <span style="color: blue; text-decoration: underline;">anabel.arrieta@ibero.mx!</span></span> Puede ser el archivo PDF que se genera o una captura de la pantalla. 
+                            <br><span style="font-weight: bold;">Esta es la única vía, no es posible hacerlo en ventanillas de sucursales bancarias</span>.
+                            
+                            <br><br>Respecto a la facturación, podrán solicitarla con Martha Ruiz al correo <span style="color: blue; text-decoration: underline;">martha.ruiz@ibero</span> y quienes soliciten una factura tendrán que enviar su Constancia de situación fiscal y deberán solicitarla en el <span style="font-weight: bold; text-decoration: underline;">mismo mes que realicen el pago</span>, de lo contrario, ya no se les podrá entregar y los ingresos quedarán facturados de manera global.
+                            
+                            <br><br>Muchas gracias por el interés en nuestras actividades
+                        </p>
                     </div>
                 </section>
 
@@ -377,19 +611,6 @@
  
                             Las decisiones serán inapelables y se publicarán en la <a class="self-link" href="https://dep.fismat.ibero.mx/sdc3/" style="font-weight:bold">página oficial del Simposio</a> a partir del 15 de septiembre indicando la modalidad en que se aceptó el trabajo.
                         </div>
-                    </div>
-                </section>
-
-                <section class="section-box" id="programa" title="programa">
-                    <div class="header-background">
-                        <h2 class="section-header">Programa</h2>
-                    </div>
-                    <label class="screenreader-text">Programa</label>
-
-                    <div>    
-                        <p>
-                            El programa se publicará en la <a class="self-link" href="https://dep.fismat.ibero.mx/sdc3/" style="font-weight:bold">página del simposio</a> en esta sección a partir del 6 de octubre.
-                        </p>
                     </div>
                 </section>
 
