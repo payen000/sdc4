@@ -380,7 +380,7 @@
                                 <button class="tablinks nav-link tab" toggle-target="irazabal">
                                     <img src="/sdc3/img/irazabal.png" class="photograph vertical-center">
                                     <p class="name-in-tab-3 vertical-center">
-                                        Mtra. Begoña <br>Irazabal<br>Valdes
+                                        Mtra. Begoña <br>Irazábal<br>Valdés
                                     </p>
                                 </button>
                                 <button class="tablinks nav-link tab" toggle-target="triana">
@@ -518,7 +518,7 @@
                                     </div>
                                     <div class="col-6 lefted">
                                         <div class="vertical-center">
-                                            <h5 class="name-in-card">Mtra. Begoña Irazabal Valdes</h5>
+                                            <h5 class="name-in-card">Mtra. Begoña Irazábal Valdés</h5>
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
