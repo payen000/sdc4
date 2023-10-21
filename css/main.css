@@ -1,4 +1,25 @@
 /*mesas*/
+.day .tablinks.nav-link.tab:hover{
+  background-color: white;
+  cursor: initial;
+}
+
+.tabcontent {
+  margin-top: 20px;
+}
+
+.tab-content {
+  padding-bottom: 20px;
+}
+
+.tab-content {
+  height: 0px;
+  overflow: hidden;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
 .mesa-header {
   padding-left: 50px;
   padding-top: 50px;
@@ -689,6 +710,14 @@ ul{
   .name-in-card {
     font-size: 16px;
   }
+
+  .role {
+    padding-left: 40px;
+  }
+
+  .role hr {
+    width: 80%;
+  }
   
 }
 
@@ -784,6 +813,10 @@ ul{
   .name-in-card {
     font-size: 15px;
   }
+
+  .role hr {
+    width: 80%;
+  }
 }
 
 @media only screen and (max-width: 600px) {
@@ -806,7 +839,20 @@ ul{
   .photograph {
       width: 60px;
       height: 60px;
-  };
+  }
+
+  .mesa-header {
+    padding-left: 10px;
+  }
+
+  .role {
+    padding-left: 10px;
+  }
+
+  .role hr {
+    width: 60%;
+    margin-left: 100px;
+  }
 }
 
 @media only screen and (max-width: 500px) {

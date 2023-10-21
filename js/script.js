@@ -33,7 +33,7 @@ function openTabs() {
 		    }
 
 		    if (flag == 0){
-		      tabregion.style.height = "325px"
+		      tabregion.style.height = "400px"
 		      tabregion.style.overflowY = "scroll";
 		      tab.style.display = "flex";
 		      tab.style.height = "325px";

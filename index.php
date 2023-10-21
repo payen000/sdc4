@@ -365,29 +365,55 @@
                         </div>  
                         <div class="row card-row desk" aria-hidden="true">
                             <div class="tabs">
-                                <div class="tablinks nav-link tab">
+                                <button class="tablinks nav-link tab" toggle-target="franco">
                                    <img src="/sdc3/img/franco.png" class="photograph vertical-center">
                                     <p class="name-in-tab-3 vertical-center">
                                         Dr. José <br>Franco<br>López
                                      </p>
-                                    <p></p>
-                                </div>
-                                <div class="tablinks nav-link tab">
+                                </button>
+                                <button class="tablinks nav-link tab" toggle-target="galan">
                                     <img src="/sdc3/img/galan.png" class="photograph vertical-center">
                                     <p class="name-in-tab-3 vertical-center">
                                         Dr. Francisco<br>Vicente<br>Galán Vélez
                                     </p>
-                                </div>
-                                <div class="tablinks nav-link tab">
+                                </button>
+                                <button class="tablinks nav-link tab" toggle-target="irazabal">
                                     <img src="/sdc3/img/irazabal.png" class="photograph vertical-center">
                                     <p class="name-in-tab-3 vertical-center">
                                         Mtra. Begoña <br>Irazabal<br>Valdes
                                     </p>
-                                </div>
-                                <div class="tablinks nav-link tab">
+                                </button>
+                                <button class="tablinks nav-link tab" toggle-target="triana">
                                     <img src="/sdc3/img/triana.png" class="photograph vertical-center">
                                     <p class="name-in-tab-3 vertical-center">
                                         Mtro. Daniel <br>Triana<br>Tena
+                                    </p>
+                                </button>
+                            </div>
+                            <div class="tab-content">
+                                <div class="tabcontent" id="franco" role="tabpanel">
+                                    <p class="description">
+                                        Obtuvo la licenciatura en Física por la UNAM, y la maestría y el doctorado en Física por la Universidad de Wisconsin-Madison, USA. Actualmente es Investigador Titular del Instituto de Astronomía de la UNAM (IA-UNAM). Su labor abarca un amplio rango de actividades que incluyen docencia, investigación, gestión institucional, promoción de proyectos científicos y la comunicación de la ciencia. Ha publicado más de 230 trabajos de investigación, docencia y difusión, y ha editado más de 35 libros sobre estos temas.
+                                        <br><br>Su trabajo es reconocido internacionalmente y ha obtenido premios nacionales y extranjeros, entre ellos el Doctorado Honoris Causa del INAOE, así como el nombramiento de Caballero de la Orden de las Palmas Académicas y la Condecoración de Oficial de la Orden Nacional del Mérito, ambos del Gobierno de Francia.
+                                        <br><br>Fue Director del IA-UNAM, Presidente de la Academia Mexicana de Ciencias, Director General de la Dirección General de Divulgación de la Ciencia de la UNAM, Coordinador General del Foro Consultivo Científico y Tecnológico AC, Coordinador del Programa de
+                                        <br><br>Astrofísica Avanzada Guillermo Haro del Instituto Nacional de Astrofísica Óptica y Electrónica (INAOE) y Editor de la serie Cambridge Contemporary Astrophysics de la Universidad de Cambridge, Reino Unido.
+                                        <br><br>En 2009 integró la ciencia al Festival Internacional Cervantino, y en 2012 al Festival Internacional de la Cultura Maya. Desde 2009 es Coordinador Nacional de la Noche de las Estrellas, el evento de comunicación de la ciencia más importante de Latinoamérica, el cual se realiza en más de 100 sedes de todo el país y ha atendido a más de 3.5 millones de personas.
+                                    </p>
+                                </div>
+                                <div class="tabcontent" id="galan" role="tabpanel">
+                                    <p class="description">
+                                        Doctor en filosofía por la Universidad Iberoamericana, tiene una estancia postdoctoral sobre Bernard Lonergan en el Boston College(1992). Profesor de tiempo completo desde 1984 en el Departamento de Filosofía del cual fue director de 1997 a 2004. Entre sus áreas de interés están la epistemología, la metafísica, la metodología filosófica y la filosofía del juego. Es especialista en el pensamiento de Bernard Lonergan. Es autor del libro: Una metafísica para tiempos post-metafísicos: la propuesta de Bernard Lonergan de una meta-metodología, Universidad Iberoamericana (2014), y es coautor de El futuro de la filosofía, Universidad Iberoamericana (2004).
+                                    </p>
+                                </div>
+                                <div class="tabcontent" id="irazabal" role="tabpanel">
+                                    <p class="description">
+                                        Es historiadora del arte, gestora cultural, locutora y ha escrito para diversos medios. Su interés principal es generar cultura y hacer difusión de la misma como una herramienta de transformación social. Ha curado más de 40 exposiciones en la galería breve que ella fundó y dirigió. Ha trabajado en museos públicos y privados como la Sala de Arte Público Siqueiros y La Tallera, así como el Museo Jumex y el Museo Kaluz. Ha conducido varios programas de agenda cultural y música en la plataforma Convoy Network y actualmente conduce el podcast Remotas sobre diversos temas desde una óptica feminista. Coordinó la publicación The Pursuit of Legible policy. Agency and Participaction in the Complex Systems of the Contemporary Megalopolis en conjunto con el Newton Fund, el Bristish Council, CONACYT, la Universidad Nacional Autónoma de México, el Laboratorio para la Ciudad entre otros actores. En agosto de 2022 asume la Dirección de Difusión y Divulgación Cultural en la Universidad Iberoamericana Ciudad de México.
+                                    </p>
+                                </div>
+                                <div class="tabcontent" id="triana" role="tabpanel">
+                                    <p class="description">
+                                        Politólogo y economista por el Instituto Tecnológico Autónomo de México, en donde también estudió la Maestría en Economía. Cuenta con más de 15 años de experiencia en política económica, desarrollo, evaluación y seguimiento de políticas públicas, así como planeación estratégica. Ha impartido diversas materias como profesor de asignatura del Departamento de Física y Matemáticas en la Universidad Iberoamericana.
+                                        <br><br>Cursó el doctorado en la Facultad de Psicología de la Universidad Nacional Autónoma de México, orientándose hacia la psicología experimental y la economía del comportamiento. Sus temas de investigación se dirigen al análisis y problematización de fenómenos en las redes sociales, tales como la polarización, la desinformación, la difusión de noticias falsas y las cámaras de resonancia. Para ello, emplea modelos estadísticos y de ciencias sociales computacionales. 
                                     </p>
                                 </div>
                             </div>
@@ -404,6 +430,40 @@
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
+                                        <button
+                                            class="btn btn-primary card-button row-button vertical-center"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#franco-toggle"
+                                            aria-expanded="false"
+                                            aria-controls="franco-toggle"
+                                            title="expandir información">
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    width="16"
+                                                    height="16"
+                                                    fill="currentColor"
+                                                    class="bi bi-caret-down-fill"
+                                                    viewBox="0 0 16 16">
+                                                        <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z">
+                                                        </path>
+                                                </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse multi-collapse" id="franco-toggle">  
+                                    <div class="card-body">
+                                        <div class="card-inside">
+                                            <div class="card-text">
+                                                <p class="description">
+                                                    Obtuvo la licenciatura en Física por la UNAM, y la maestría y el doctorado en Física por la Universidad de Wisconsin-Madison, USA. Actualmente es Investigador Titular del Instituto de Astronomía de la UNAM (IA-UNAM). Su labor abarca un amplio rango de actividades que incluyen docencia, investigación, gestión institucional, promoción de proyectos científicos y la comunicación de la ciencia. Ha publicado más de 230 trabajos de investigación, docencia y difusión, y ha editado más de 35 libros sobre estos temas.
+                                                    <br><br>Su trabajo es reconocido internacionalmente y ha obtenido premios nacionales y extranjeros, entre ellos el Doctorado Honoris Causa del INAOE, así como el nombramiento de Caballero de la Orden de las Palmas Académicas y la Condecoración de Oficial de la Orden Nacional del Mérito, ambos del Gobierno de Francia.
+                                                    <br><br>Fue Director del IA-UNAM, Presidente de la Academia Mexicana de Ciencias, Director General de la Dirección General de Divulgación de la Ciencia de la UNAM, Coordinador General del Foro Consultivo Científico y Tecnológico AC, Coordinador del Programa de
+                                                    <br><br>Astrofísica Avanzada Guillermo Haro del Instituto Nacional de Astrofísica Óptica y Electrónica (INAOE) y Editor de la serie Cambridge Contemporary Astrophysics de la Universidad de Cambridge, Reino Unido.
+                                                    <br><br>En 2009 integró la ciencia al Festival Internacional Cervantino, y en 2012 al Festival Internacional de la Cultura Maya. Desde 2009 es Coordinador Nacional de la Noche de las Estrellas, el evento de comunicación de la ciencia más importante de Latinoamérica, el cual se realiza en más de 100 sedes de todo el país y ha atendido a más de 3.5 millones de personas.
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -418,6 +478,36 @@
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
+                                        <button
+                                            class="btn btn-primary card-button row-button vertical-center"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#galan-toggle"
+                                            aria-expanded="false"
+                                            aria-controls="galan-toggle"
+                                            title="expandir información">
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    width="16"
+                                                    height="16"
+                                                    fill="currentColor"
+                                                    class="bi bi-caret-down-fill"
+                                                    viewBox="0 0 16 16">
+                                                        <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z">
+                                                        </path>
+                                                </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse multi-collapse" id="galan-toggle">  
+                                    <div class="card-body">
+                                        <div class="card-inside">
+                                            <div class="card-text">
+                                                <p class="description">
+                                                    Doctor en filosofía por la Universidad Iberoamericana, tiene una estancia postdoctoral sobre Bernard Lonergan en el Boston College(1992). Profesor de tiempo completo desde 1984 en el Departamento de Filosofía del cual fue director de 1997 a 2004. Entre sus áreas de interés están la epistemología, la metafísica, la metodología filosófica y la filosofía del juego. Es especialista en el pensamiento de Bernard Lonergan. Es autor del libro: Una metafísica para tiempos post-metafísicos: la propuesta de Bernard Lonergan de una meta-metodología, Universidad Iberoamericana (2014), y es coautor de El futuro de la filosofía, Universidad Iberoamericana (2004).
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -432,6 +522,36 @@
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
+                                        <button
+                                            class="btn btn-primary card-button row-button vertical-center"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#irazabal-toggle"
+                                            aria-expanded="false"
+                                            aria-controls="irazabal-toggle"
+                                            title="expandir información">
+                                            <svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                width="16"
+                                                height="16"
+                                                fill="currentColor"
+                                                class="bi bi-caret-down-fill"
+                                                viewBox="0 0 16 16">
+                                                    <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z">
+                                                    </path>
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse multi-collapse" id="irazabal-toggle">  
+                                    <div class="card-body">
+                                        <div class="card-inside">
+                                            <div class="card-text">
+                                                <p class="description">
+                                                    Es historiadora del arte, gestora cultural, locutora y ha escrito para diversos medios. Su interés principal es generar cultura y hacer difusión de la misma como una herramienta de transformación social. Ha curado más de 40 exposiciones en la galería breve que ella fundó y dirigió. Ha trabajado en museos públicos y privados como la Sala de Arte Público Siqueiros y La Tallera, así como el Museo Jumex y el Museo Kaluz. Ha conducido varios programas de agenda cultural y música en la plataforma Convoy Network y actualmente conduce el podcast Remotas sobre diversos temas desde una óptica feminista. Coordinó la publicación The Pursuit of Legible policy. Agency and Participaction in the Complex Systems of the Contemporary Megalopolis en conjunto con el Newton Fund, el Bristish Council, CONACYT, la Universidad Nacional Autónoma de México, el Laboratorio para la Ciudad entre otros actores. En agosto de 2022 asume la Dirección de Difusión y Divulgación Cultural en la Universidad Iberoamericana Ciudad de México.
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -446,6 +566,37 @@
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
+                                        <button
+                                            class="btn btn-primary card-button row-button vertical-center"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#triana-toggle"
+                                            aria-expanded="false"
+                                            aria-controls="triana-toggle"
+                                            title="expandir información">
+                                            <svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                width="16"
+                                                height="16"
+                                                fill="currentColor"
+                                                class="bi bi-caret-down-fill"
+                                                viewBox="0 0 16 16">
+                                                    <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z">
+                                                    </path>
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse multi-collapse" id="triana-toggle">  
+                                    <div class="card-body">
+                                        <div class="card-inside">
+                                            <div class="card-text">
+                                                <p class="description">
+                                                    Politólogo y economista por el Instituto Tecnológico Autónomo de México, en donde también estudió la Maestría en Economía. Cuenta con más de 15 años de experiencia en política económica, desarrollo, evaluación y seguimiento de políticas públicas, así como planeación estratégica. Ha impartido diversas materias como profesor de asignatura del Departamento de Física y Matemáticas en la Universidad Iberoamericana.
+                                                    <br><br>Cursó el doctorado en la Facultad de Psicología de la Universidad Nacional Autónoma de México, orientándose hacia la psicología experimental y la economía del comportamiento. Sus temas de investigación se dirigen al análisis y problematización de fenómenos en las redes sociales, tales como la polarización, la desinformación, la difusión de noticias falsas y las cámaras de resonancia. Para ello, emplea modelos estadísticos y de ciencias sociales computacionales. 
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -464,23 +615,41 @@
                         </div>  
                         <div class="row card-row desk" aria-hidden="true">
                             <div class="tabs">
-                                <div class="tablinks nav-link tab">
+                                <button class="tablinks nav-link tab" toggle-target="mochan">
                                    <img src="/sdc3/img/mochan.png" class="photograph vertical-center">
                                     <p class="name-in-tab-2 vertical-center">
                                         Dr. Luis <br>Mochán<br>Backal
                                      </p>
                                     <p></p>
-                                </div>
-                                <div class="tablinks nav-link tab">
+                                </button>
+                                <button class="tablinks nav-link tab" toggle-target="ortega">
                                     <img src="/sdc3/img/ortega.png" class="photograph vertical-center">
                                     <p class="name-in-tab-3 vertical-center">
                                         Dr. René <br>Alberto <br>Ortega <br>Minakata
                                     </p>
-                                </div>
-                                <div class="tablinks nav-link tab">
+                                </button>
+                                <button class="tablinks nav-link tab" toggle-target="perelman">
                                     <img src="/sdc3/img/perelman.png" class="photograph vertical-center">
                                     <p class="name-in-tab-2 vertical-center">
                                         Quím. Carol <br>Perelman
+                                    </p>
+                                </button>
+                            </div>
+                            <div class="tab-content">
+                                <div class="tabcontent" id="mochan" role="tabpanel">
+                                    <p class="description">
+                                        Físico teórico, miembro nivel III del Sistema Nacional de Investigadores (SNI), ha dedicado su investigación científica a la óptica no lineal y a la física de superficies.
+                                        <br><br>Ha recibido distinciones que incluyen el Premio de la Academia de la Investigación Científica, la Distinción Universidad Nacional para Jóvenes Académicos, la Medalla Marcos Moshinsky, la presea Tlacaélel, el Premio Universidad Nacional, el Premio Nacional de Divulgación Científica "Alejandra Jaidar", un Fellowship de la American Physical Society y un Doctorado Honoris Causa del Colech. Ha persistido en su trabajo de divulgador mediante charlas, artículos y en la creación de una exposición museográfica. Con ello ha buscado que las personas compartan la actitud de la ciencia frente al conocimiento, que adquieran la capacidad de hacerse preguntas y de detectar y desechar las respuestas erróneas, motivo por el que ha sido llamado "el científico cazador de fraudes".
+                                    </p>
+                                </div>
+                                <div class="tabcontent" id="ortega" role="tabpanel">
+                                    <p class="description">
+                                        Obtuvo su licenciatura en física en la Universidad de Guadalajara, y realizó sus estudios de posgrado en la Universidad de Guanajuato, estudiando las propiedades estadísticas de grandes muestras de galaxias. Obtuvo su doctorado en 2015. Fue becario postdoctoral en el Observatorio de Valongo de la Universidad Federal de Río de Janeiro, Brasil, y luego en el Instituto de Astronomía de la Universidad Nacional Autónoma de México (UNAM), estudiando abundancias químicas en el medio interestelar de las galaxias. Ha estado involucrado en actividades de divulgación astronómica de manera constante y frecuente desde 2009, y también tiene experiencia docente. Es miembro del cuerpo técnico de la UNAM desde 2019.
+                                     </p>
+                                </div>
+                                <div class="tabcontent" id="perelman" role="tabpanel">
+                                    <p class="description">
+                                        Química Farmacéutica Bióloga por la UNAM, ganadora de medalla de oro en las Olimpiadas de Química Nacionales  y de bronce en las Olimpiadas de Química Iberoamericanas representando a México. Co-creadora y Directora del Jardín Weizmann de Ciencias, primer museo de ciencia completamente al aire libre en México, perteneciente a la Asociación Mexicana de Museos y Centros de Ciencia y Tecnología (AMMCCYT). Promotora de jardines de ciencia como espacios democratizadores de la ciencia. Miembro de la Sociedad Mexicana para la Divulgación de la Ciencia y la Técnica, A.C. (Somedicyt), de la Red Mexicana de Periodistas de Ciencia (RedMPC) y del Patronato de la Facultad de Química de la UNAM. Ganadora del Tercer Lugar del 10º Premio de Periodismo sobre Innovación Científica y Tecnológica 2019 de COMECYT, autora del cuento "Coronesio, Covidín y los Secretos de lo Invisible" por el cual ganó Segundo Lugar del Premio Jorge Flores Valdés al mejor trabajo de divulgación del 2020 entorno a la pandemia de COVID-19. Colaboradora de varios medios, autora de textos, entrevistas, campañas, columnas, y artículos científicos entre los que destacan el estudio sobre el cambio en la percepción de la ciencia a raíz de la pandemia y en relación a la incidencia de secuelas de COVID-19. Esposa y mamá de cuatro.
                                     </p>
                                 </div>
                             </div>
@@ -497,6 +666,37 @@
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
+                                        <button
+                                            class="btn btn-primary card-button row-button vertical-center"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#mochan-toggle"
+                                            aria-expanded="false"
+                                            aria-controls="mochan-toggle"
+                                            title="expandir información">
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    width="16"
+                                                    height="16"
+                                                    fill="currentColor"
+                                                    class="bi bi-caret-down-fill"
+                                                    viewBox="0 0 16 16">
+                                                        <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z">
+                                                        </path>
+                                                </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse multi-collapse" id="mochan-toggle">  
+                                    <div class="card-body">
+                                        <div class="card-inside">
+                                            <div class="card-text">
+                                                <p class="description">
+                                                    Físico teórico, miembro nivel III del Sistema Nacional de Investigadores (SNI), ha dedicado su investigación científica a la óptica no lineal y a la física de superficies.
+                                                    <br><br>Ha recibido distinciones que incluyen el Premio de la Academia de la Investigación Científica, la Distinción Universidad Nacional para Jóvenes Académicos, la Medalla Marcos Moshinsky, la presea Tlacaélel, el Premio Universidad Nacional, el Premio Nacional de Divulgación Científica "Alejandra Jaidar", un Fellowship de la American Physical Society y un Doctorado Honoris Causa del Colech. Ha persistido en su trabajo de divulgador mediante charlas, artículos y en la creación de una exposición museográfica. Con ello ha buscado que las personas compartan la actitud de la ciencia frente al conocimiento, que adquieran la capacidad de hacerse preguntas y de detectar y desechar las respuestas erróneas, motivo por el que ha sido llamado "el científico cazador de fraudes".
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -511,6 +711,36 @@
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
+                                        <button
+                                            class="btn btn-primary card-button row-button vertical-center"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#ortega-toggle"
+                                            aria-expanded="false"
+                                            aria-controls="ortega-toggle"
+                                            title="expandir información">
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    width="16"
+                                                    height="16"
+                                                    fill="currentColor"
+                                                    class="bi bi-caret-down-fill"
+                                                    viewBox="0 0 16 16">
+                                                        <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z">
+                                                        </path>
+                                                </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse multi-collapse" id="ortega-toggle">  
+                                    <div class="card-body">
+                                        <div class="card-inside">
+                                            <div class="card-text">
+                                                <p class="description">
+                                                    Obtuvo su licenciatura en física en la Universidad de Guadalajara, y realizó sus estudios de posgrado en la Universidad de Guanajuato, estudiando las propiedades estadísticas de grandes muestras de galaxias. Obtuvo su doctorado en 2015. Fue becario postdoctoral en el Observatorio de Valongo de la Universidad Federal de Río de Janeiro, Brasil, y luego en el Instituto de Astronomía de la Universidad Nacional Autónoma de México (UNAM), estudiando abundancias químicas en el medio interestelar de las galaxias. Ha estado involucrado en actividades de divulgación astronómica de manera constante y frecuente desde 2009, y también tiene experiencia docente. Es miembro del cuerpo técnico de la UNAM desde 2019.
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -525,6 +755,36 @@
                                         </div>
                                     </div>
                                     <div class="col-3 centered">
+                                        <button
+                                            class="btn btn-primary card-button row-button vertical-center"
+                                            type="button"
+                                            data-bs-toggle="collapse"
+                                            data-bs-target="#perelman-toggle"
+                                            aria-expanded="false"
+                                            aria-controls="perelman-toggle"
+                                            title="expandir información">
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    width="16"
+                                                    height="16"
+                                                    fill="currentColor"
+                                                    class="bi bi-caret-down-fill"
+                                                    viewBox="0 0 16 16">
+                                                        <path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z">
+                                                        </path>
+                                                </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="collapse multi-collapse" id="perelman-toggle">  
+                                    <div class="card-body">
+                                        <div class="card-inside">
+                                            <div class="card-text">
+                                                <p class="description">
+                                                    Química Farmacéutica Bióloga por la UNAM, ganadora de medalla de oro en las Olimpiadas de Química Nacionales  y de bronce en las Olimpiadas de Química Iberoamericanas representando a México. Co-creadora y Directora del Jardín Weizmann de Ciencias, primer museo de ciencia completamente al aire libre en México, perteneciente a la Asociación Mexicana de Museos y Centros de Ciencia y Tecnología (AMMCCYT). Promotora de jardines de ciencia como espacios democratizadores de la ciencia. Miembro de la Sociedad Mexicana para la Divulgación de la Ciencia y la Técnica, A.C. (Somedicyt), de la Red Mexicana de Periodistas de Ciencia (RedMPC) y del Patronato de la Facultad de Química de la UNAM. Ganadora del Tercer Lugar del 10º Premio de Periodismo sobre Innovación Científica y Tecnológica 2019 de COMECYT, autora del cuento "Coronesio, Covidín y los Secretos de lo Invisible" por el cual ganó Segundo Lugar del Premio Jorge Flores Valdés al mejor trabajo de divulgación del 2020 entorno a la pandemia de COVID-19. Colaboradora de varios medios, autora de textos, entrevistas, campañas, columnas, y artículos científicos entre los que destacan el estudio sobre el cambio en la percepción de la ciencia a raíz de la pandemia y en relación a la incidencia de secuelas de COVID-19. Esposa y mamá de cuatro.
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

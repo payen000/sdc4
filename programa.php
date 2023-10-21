@@ -25,14 +25,12 @@
                                 <div class="col-3 col-sm-3 lefted">
                                     <h5 class="vertical-center">08:30</h5>
                                 </div>
-                                <div class="col-6 col-sm-6 lefted">
+                                <div class="col-9 col-sm-9 lefted">
                                     <div class="row vertical-center">
                                         <div class="col-12 col-lg-6">
                                             <h5 class="vertical-center event-title">
-                                                <span style="white-space:nowrap">Inauguración del Simposio</span>
+                                                Inauguración del Simposio
                                             </h5>
-                                        </div>
-                                        <div class="col-12 col-lg-6">
                                         </div>
                                     </div>
                                 </div>
