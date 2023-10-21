@@ -244,15 +244,115 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card">
-                            <div class="row card-row">
-                                <div class="col-3 col-sm-3 lefted">
-                                    <h5 class="vertical-center">13:30 - 14:35</h5>
-                                </div>
-                                <div class="col-6 col-sm-6 lefted">
+                        <div class="card mesa">
+                            <div class="mesa-header">
+                                <div class="row card-row">
+                                    <div class="col-3 col-sm-3 lefted">
+                                        <h5 class="vertical-center">13:30 - 14:35</h5>
+                                    </div>
+                                    <div class="col-9 col-sm-9 lefted">
                                     <div class="row vertical-center">
-                                        <div class="col-12 col-lg-6">
-                                            <h5 class="vertical-center event-title">Mesa de Diálogo</h5>
+                                        <div class="col-12 col-lg-4">
+                                            <h5 class="vertical-center event-title">Mesa de Diálogo:</h5>
+                                        </div>
+                                        <div class="col-12 col-lg-8">
+                                            <h5 class="vertical-center event-name">Sobre desinformación</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row card-row">
+                                <h5 class="mod">
+                                    Moderadora: Anabel Arrieta
+                                </h5>
+                            </div>
+                            <div class="role">
+                                <p>Participantes</p>
+                                <hr>
+                            </div>  
+                            <div class="row card-row desk" aria-hidden="true">
+                                <div class="tabs">
+                                    <div class="tablinks nav-link tab">
+                                    <img src="/sdc3/img/franco.png" class="photograph vertical-center">
+                                        <p class="name-in-tab-3 vertical-center">
+                                            Dr. José <br>Franco<br>López
+                                        </p>
+                                        <p></p>
+                                    </div>
+                                    <div class="tablinks nav-link tab">
+                                        <img src="/sdc3/img/galan.png" class="photograph vertical-center">
+                                        <p class="name-in-tab-3 vertical-center">
+                                            Dr. Francisco<br>Vicente<br>Galán Vélez
+                                        </p>
+                                    </div>
+                                    <div class="tablinks nav-link tab">
+                                        <img src="/sdc3/img/irazabal.png" class="photograph vertical-center">
+                                        <p class="name-in-tab-3 vertical-center">
+                                            Mtra. Begoña <br>Irazabal<br>Valdes
+                                        </p>
+                                    </div>
+                                    <div class="tablinks nav-link tab">
+                                        <img src="/sdc3/img/triana.png" class="photograph vertical-center">
+                                        <p class="name-in-tab-3 vertical-center">
+                                            Mtro. Daniel <br>Triana<br>Tena
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row card-row mini">
+                                <div class="card invitado">
+                                    <div class="row card-row">
+                                        <div class="col-3">
+                                            <img src="/sdc3/img/franco.png" class="photograph vertical-center">
+                                        </div>
+                                        <div class="col-6 lefted">
+                                            <div class="vertical-center">
+                                                <h5 class="name-in-card">Dr. José Franco López</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-3 centered">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card invitado">
+                                    <div class="row card-row">
+                                        <div class="col-3">
+                                            <img src="/sdc3/img/galan.png" class="photograph vertical-center">
+                                        </div>
+                                        <div class="col-6 lefted">
+                                            <div class="vertical-center">
+                                                <h5 class="name-in-card">Dr. Francisco Vicente Galán Vélez</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-3 centered">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card invitado">
+                                    <div class="row card-row">
+                                        <div class="col-3">
+                                            <img src="/sdc3/img/irazabal.png" class="photograph vertical-center">
+                                        </div>
+                                        <div class="col-6 lefted">
+                                            <div class="vertical-center">
+                                                <h5 class="name-in-card">Mtra. Begoña Irazabal Valdes</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-3 centered">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card invitado">
+                                    <div class="row card-row">
+                                        <div class="col-3">
+                                            <img src="/sdc3/img/triana.png" class="photograph vertical-center">
+                                        </div>
+                                        <div class="col-6 lefted">
+                                            <div class="vertical-center">
+                                                <h5 class="name-in-card">Mtro. Daniel Triana Tena</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-3 centered">
                                         </div>
                                     </div>
                                 </div>
@@ -468,15 +568,95 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card">
-                            <div class="row card-row">
-                                <div class="col-3 col-sm-3 lefted">
-                                    <h5 class="vertical-center">13:30 - 14:35</h5>
-                                </div>
-                                <div class="col-6 col-sm-6 lefted">
+                        <div class="card mesa">
+                            <div class="mesa-header">
+                                <div class="row card-row">
+                                    <div class="col-3 col-sm-3 lefted">
+                                        <h5 class="vertical-center">13:30 - 14:35</h5>
+                                    </div>
+                                    <div class="col-9 col-sm-9 lefted">
                                     <div class="row vertical-center">
-                                        <div class="col-12 col-lg-6">
-                                            <h5 class="vertical-center event-title">Mesa de Diálogo</h5>
+                                        <div class="col-12 col-lg-4">
+                                            <h5 class="vertical-center event-title">Mesa de Diálogo:</h5>
+                                        </div>
+                                        <div class="col-12 col-lg-8">
+                                            <h5 class="vertical-center event-name">Combatiendo la desinformación</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row card-row">
+                                <h5 class="mod">
+                                    Moderadora: Lorena Arias Montaño
+                                </h5>
+                            </div>         
+                            <div class="role">
+                                <p>Participantes</p>
+                                <hr>
+                            </div>  
+                            <div class="row card-row desk" aria-hidden="true">
+                                <div class="tabs">
+                                    <div class="tablinks nav-link tab">
+                                    <img src="/sdc3/img/mochan.png" class="photograph vertical-center">
+                                        <p class="name-in-tab-2 vertical-center">
+                                            Dr. Luis <br>Mochán<br>Backal
+                                        </p>
+                                        <p></p>
+                                    </div>
+                                    <div class="tablinks nav-link tab">
+                                        <img src="/sdc3/img/ortega.png" class="photograph vertical-center">
+                                        <p class="name-in-tab-3 vertical-center">
+                                            Dr. René <br>Alberto <br>Ortega <br>Minakata
+                                        </p>
+                                    </div>
+                                    <div class="tablinks nav-link tab">
+                                        <img src="/sdc3/img/perelman.png" class="photograph vertical-center">
+                                        <p class="name-in-tab-2 vertical-center">
+                                            Quím. Carol <br>Perelman
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row card-row mini">
+                                <div class="card invitado">
+                                    <div class="row card-row">
+                                        <div class="col-3">
+                                            <img src="/sdc3/img/mochan.png" class="photograph vertical-center">
+                                        </div>
+                                        <div class="col-6 lefted">
+                                            <div class="vertical-center">
+                                                <h5 class="name-in-card">Dr. Luis Mochán Backal</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-3 centered">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card invitado">
+                                    <div class="row card-row">
+                                        <div class="col-3">
+                                            <img src="/sdc3/img/ortega.png" class="photograph vertical-center">
+                                        </div>
+                                        <div class="col-6 lefted">
+                                            <div class="vertical-center">
+                                                <h5 class="name-in-card">Dr. René Alberto Ortega Minakata</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-3 centered">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card invitado">
+                                    <div class="row card-row">
+                                        <div class="col-3">
+                                            <img src="/sdc3/img/perelman.png" class="photograph vertical-center">
+                                        </div>
+                                        <div class="col-6 lefted">
+                                            <div class="vertical-center">
+                                                <h5 class="name-in-card">Quím. Carol Perelman</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-3 centered">
                                         </div>
                                     </div>
                                 </div>
