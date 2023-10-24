@@ -74,27 +74,29 @@
                         <li>Hernández López, Jonathan Eduardo - Instituto Politécnico Nacional </li>
                         <li>Hernández Reyes, Ana Laura - SEP</li>
                         <li>Herrera Xicoténcatl, Katia - Consejo de Ciencia y Tecnología del Estado de Tabasco </li>
+                        <li>Ibarra García, Carlos Adrián - UAM Xochimilco </li>
                         <li>Jara Servin, Angelica Mariana - UNAM</li>
                         <li>Jimenez Nieto, Guadalupe Vianey - Universidad Michoacana de San Nicolás de Hidalgo - Facultad de Ciencias Físico Matemáticas </li>
                         <li>Jiménez Zambrano, Graciel A - Museo de Historia Natural y Cultura Ambiental </li>
                         <li>Juárez Barradas, Rosabel - Centro de Investigación Educativa - UATx</li>
                         <li>Larcano Delgado, Mónica - Colegio Montessori Tulancingo </li>
+                        <li>Laris Velázquez, Javier - Universidad Autónoma Metropolitana, Xochimilco </li>
                         <li>Ledesma Saucedo, Rocío Oliva - Museo Tezozómoc del Instituto Politécnico Nacional</li>
                         <li>Leon Cadena, Alberto - Obs. Astr. SyL del Grupo Observacional Astrotecno y Anton Paar México</li>
                         <li>Lizano Soberón, Susana Estela - IRyA, UNAM</li>
                         <li>Lomelí Pacheco, Martha Alejandra - Instituto de Metalurgia, UASLP</li>
-                        <li>López, Marlen - UNIVERSIDAD IBEROAMERICANA CDMX </li>
                         <li>Lopez Arana, Solgema - Universidad Autónoma del Estado de México </li>
                         <li>López Arriaga, Lucia - HOSPITAL GENERAL LEON </li>
                         <li>López Fonseca, Mónica Rocío - Canal 44 udgtv</li>
                         <li>López Vásquez, José Manuel - Universidad Autónoma de Tlaxcala</li>
                         <li>López-Sagástegui, Catalina - Institute of the Americas</li>
+                        <li>López, Marlen - UNIVERSIDAD IBEROAMERICANA CDMX </li>
                         <li>Lozano Yescas, Dora Nelly - Biblioteca Publica del Pueblo de San Lorenzo, Gobierno de la Ciudad de México.</li>
                         <li>Luna Medina, Nicté Yasmín - Instituto de Energías Renovables </li>
                         <li>Maldonado Bernal, Sharon Danetsi - Universidad del Mar </li>
                         <li>Manero Orozco, Jorge Alberto - Instituto de Investigaciones Filosóficas, UNAM. </li>
-                        <li>Mansuy Navarro, Emilio - Universidad Autónoma Metropolitana-Unidad Xochimilco</li>
                         <li>Mañon Pazos, Mario - Libre</li>
+                        <li>Mansuy Navarro, Emilio - Universidad Autónoma Metropolitana-Unidad Xochimilco</li>
                         <li>Martínez Avilés, Gerardo - Universidad Iberoamericana</li>
                         <li>Martínez Cerón, Nancy - Universidad La Salle, AC</li>
                         <li>Martínez Edgar, Jeanette - Sietecolores, Ideas Interactivas</li>
@@ -118,9 +120,10 @@
                         <li>Palacios Rodríguez, Yadira - 1.Escuela Militar de Graduados de Sanidad. 2.Universidad Autónoma Metropolitana</li>
                         <li>Patlan Velazquez, Luis Fernando - DiVU A.C. y Universidad Autónoma Metropolitana Campus Iztapalapa</li>
                         <li>Payen Sandoval, Agustín - Universidad Iberoamericana</li>
-                        <li>Pensado Guevara, Paola Belem - Instituto de Neuroetología, UV</li>
                         <li>Peña, Pilar - Académico independiente </li>
+                        <li>Pensado Guevara, Paola Belem - Instituto de Neuroetología, UV</li>
                         <li>Perelman, Carol - SOMEDICyT, Asociación Mexicana de Amigos del Instituto Weizmann de Ciencias</li>
+                        <li>Pérez Fernández, Fernando - Universidad Autónoma Metropolitana Unidad Xochimilco</li>
                         <li>Pérez Sabino, Silvia Patricia - CENIDET</li>
                         <li>Plaisant Zendejas, Gerardo Octavio - Centro de Desarrollo Aeroespacial del IPN</li>
                         <li>Ramírez Palacios, Lourdes Rocío - Cecyt11 WM-IPN</li>
@@ -134,11 +137,15 @@
                         <li>Rodríguez García, Yoana Noemí - Coordinación de Divulgación y Difusión Académica / ITESO</li>
                         <li>Rodríguez Gómez Tagle, Gabriela - Universidad Autónoma del Estado de México</li>
                         <li>Rodríguez Lozano, Dulce Carolina - UNITEC </li>
-                        <li>Sánchez, Verenise - Instituto de Ciencias Nucleares,UNAM</li>
+                        <li>Rodríguez Ramos, Francisco Andy - Alzate@z "Propagadores de la ciencia"</li>
+                        <li>Rodriguez, Estelvina - UNIVERSIDAD NACIONAL DE ITAPUA</li>
                         <li>Sánchez Bueno, Lizbeth - Universidad Politécnico de Tlaxcala </li>
                         <li>Sánchez Castañeda, José Ramón - Red Mexicana de Periodistas de Ciencia </li>
                         <li>Sánchez Correa, Verenise - Instituto de Ciencias Nucleares, UNAM</li>
+                        <li>Sanchez Flores, Angel Uriel - Alzate y su gente A.C.</li>
                         <li>Sánchez Sánchez, Sergio - Universidad del Valle de México</li>
+                        <li>Sánchez, Verenise - Instituto de Ciencias Nucleares,UNAM</li>
+                        <li>Sanvicente Paramo, Diego Alejandro - Alzate y su gente A.C</li>
                         <li>Severino Villalobos, Eugenia Valentina - Materia Espektral</li>
                         <li>Sotomayor Vázquez, María Del Rosario - Benemérita Universidad autónoma de Puebla </li>
                         <li>Tariq, Rasikh - Institute for the Future of Education, Tecnologico de Monterrey, Monterrey, Mexico</li>
@@ -146,6 +153,7 @@
                         <li>Triana Tena, Daniel - UNAM-Facultad de Psicología</li>
                         <li>Trujillo Martínez, Mariana - UNAM, Facultad de Filosofía y Letras, posgrado de Filosofía de la Ciencia</li>
                         <li>Vázquez Jiménez, Heber - Posgrado en filosofía de la ciencia, Universidad Nacional Autónoma de México</li>
+                        <li>Vázquez Sánchez, Natalia - Facultad de Leyes, Charles University. </li>
                         <li>Velasco Becerril, Marco Antonio - Facultad de Ciencias. UNAM</li>
                         <li>Velázquez Gil, Blanca Andrea - Facultad de Ingeniería UNAM</li>
                         <li>Velázquez Velázquez, Ana Laura - Colegio Makarenko</li>

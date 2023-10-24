@@ -16,6 +16,13 @@
                     <label class="screenreader-text">Programa simplificado</label>
                     <div id="programa-simplificado">
                         <img src="/sdc3/img/programa.png" alt="programa-simplificado" >
+                        <p style="text-align: justify;">
+                            <br>
+                            La descripción detallada del evento y los resúmenes de las contribuciones orales pueden descargarse en formato pdf 
+                            <a href="img/programa.pdf" target="_blank">en este enlace</a>.
+                            <br>El programa resumido del evento puede encontrarse 
+                            <a href="img/programa_resumido.pdf" target="_blank">haciendo clic aquí</a>.
+                        </p>
                     </div>
 
                     <div class="day">
