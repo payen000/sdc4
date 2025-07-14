@@ -53,7 +53,6 @@ function initialize(){
   	let activatingElements = document.getElementsByClassName("activate");
 	let IE = /MSIE|Trident/.test(window.navigator.userAgent);
 
-	/* para cambiar las flechitas de expandir/colapasar */
 	for (let i = 0; i < buttons.length; i++) {
 		buttons[i].innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-down-fill" viewBox="0 0 16 16"><path d="M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/></svg>';
   		buttons[i].addEventListener("click", function(){
@@ -69,8 +68,7 @@ function initialize(){
 		)
   	}
 
-  	/* para navegar a cualquier parte que indique la navbar */
-  	for (let i = 0; i < navButtons.length - 1; i++) {
+	for (let i = 0; i < navButtons.length - 1; i++) {
   		navButtons[i].addEventListener("keyup", function(event){
   			if (event.keyCode === 13) {
 			    // Cancel the default action, if needed
